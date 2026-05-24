@@ -974,3 +974,23 @@ python-dotenv could not parse statement starting at line 1
 2026-05-24 05:23:54,698 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
 2026-05-24 05:23:54,698 - INFO - ⏱️ ATBOT cycle 6: checking 9 symbols
 2026-05-24 05:23:54,698 - INFO - ⏱️ ATBOT cycle 6: checking 9 symbols
+2026-05-24 05:24:24,970 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:24:24,970 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:24:24,970 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:24:24,970 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:24:24,970 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:24:24,970 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:24:24,970 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:24:24,970 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:24:24,970 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:24:24,970 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:24:24,970 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:24:24,970 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:24:24,970 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:24:24,970 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:24:24,970 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:24:24,970 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:24:24,970 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:24:24,970 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:24:24,970 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:24:24,970 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
