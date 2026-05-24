@@ -62,10 +62,14 @@ def generate_signal(symbol):
                 price = data.get(symbol.lower().replace('btc', 'bitcoin').replace('eth', 'ethereum'), {}).get('usd', 0)
                 change = data.get(symbol.lower().replace('btc', 'bitcoin').replace('eth', 'ethereum'), {}).get('usd_24h_change', 0)
                 if price > 0:
-                    if change > 5:
-                        return {'symbol': symbol, 'action': 'BUY', 'price': price, 'change': change}
-                    elif change < -5:
-                        return {'symbol': symbol, 'action': 'SELL', 'price': price, 'change': change}
+                    if change > 8:  # Strong uptrend
+                        return {'symbol': symbol, 'action': 'BUY', 'price': price, 'change': change, 'strength': 'STRONG'}
+                    elif change > 4:  # Moderate uptrend
+                        return {'symbol': symbol, 'action': 'BUY', 'price': price, 'change': change, 'strength': 'MEDIUM'}
+                    elif change < -8:  # Strong downtrend
+                        return {'symbol': symbol, 'action': 'SELL', 'price': price, 'change': change, 'strength': 'STRONG'}
+                    elif change < -4:  # Moderate downtrend
+                        return {'symbol': symbol, 'action': 'SELL', 'price': price, 'change': change, 'strength': 'MEDIUM'}
         return None
     except Exception as e:
         logger.error(f"Signal error for {symbol}: {e}")
