@@ -3,3 +3,25 @@ Traceback (most recent call last):
   File "/root/trading_bot/atbot.py", line 13, in <module>
     import alpaca_trade_api as tradeapi
 ModuleNotFoundError: No module named 'alpaca_trade_api'
+2026-05-24 04:28:36,828 - INFO - ================================================================================
+2026-05-24 04:28:36,828 - INFO - 🚀 ATBOT v3.1 PRODUCTION - LIVE TRADING
+2026-05-24 04:28:36,828 - INFO - ================================================================================
+2026-05-24 04:28:36,828 - ERROR - ❌ Load state error: 'trades'
+2026-05-24 04:28:37,558 - ERROR - ❌ ATBOT Connection error: unauthorized.
+2026-05-24 04:28:37,558 - ERROR - ❌ ATBOT: Failed to connect to Alpaca
+2026-05-24 04:28:45,710 - INFO - ================================================================================
+2026-05-24 04:28:45,710 - INFO - ================================================================================
+2026-05-24 04:28:45,710 - INFO - 🚀 ATBOT v3.1 PRODUCTION - LIVE TRADING
+2026-05-24 04:28:45,710 - INFO - 🚀 ATBOT v3.1 PRODUCTION - LIVE TRADING
+2026-05-24 04:28:45,710 - INFO - ================================================================================
+2026-05-24 04:28:45,710 - INFO - ================================================================================
+2026-05-24 04:28:45,710 - ERROR - ❌ Load state error: 'trades'
+2026-05-24 04:28:45,710 - ERROR - ❌ Load state error: 'trades'
+2026-05-24 04:28:46,445 - ERROR - ❌ ATBOT Connection error: unauthorized.
+2026-05-24 04:28:46,445 - ERROR - ❌ ATBOT Connection error: unauthorized.
+2026-05-24 04:28:46,446 - ERROR - ❌ ATBOT: Failed to connect to Alpaca
+2026-05-24 04:28:46,446 - ERROR - ❌ ATBOT: Failed to connect to Alpaca
+
+================================================================================
+🚀 ATBOT v3.1 PRODUCTION - LIVE TRADING
+================================================================================
