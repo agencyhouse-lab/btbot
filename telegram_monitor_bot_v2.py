@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-📱 Telegram Bot Monitor v2.0 (Simplified)
+📱 Telegram Bot Monitor v2.1 (Updated with Correct Tokens)
 Monitors: atbot.py, ps2tradeb.py
-Sends: Daily reports, error alerts, status updates
+Bot: @GSunny_Monitor_bot
 """
 
 import os
@@ -11,6 +11,10 @@ import time
 import requests
 from datetime import datetime
 import logging
+from dotenv import load_dotenv
+
+# Load environment
+load_dotenv('/root/btbot/.env')
 
 # Logging setup
 logging.basicConfig(
@@ -24,20 +28,22 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Configuration
-TELEGRAM_TOKEN = "8953130834:AAEq57og5ncNyqpfAVPXVLdeObrdU8WkeB4"
-TELEGRAM_CHAT_ID = "5587885687"
+TELEGRAM_TOKEN = os.getenv('TELEGRAM_MONITOR_TOKEN', '8972312809:AAEo1MOrmCUmRt2jXbUxo0B1rjp7MygWaco')
+TELEGRAM_CHAT_ID = os.getenv('TELEGRAM_MONITOR_CHAT_ID', '5587885687')
 TELEGRAM_URL = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
 
 BOTS = {
     'atbot': {
         'name': '🟠 ATBOT (Alpaca Live)',
         'log': '/root/btbot/atbot.log',
-        'process': 'python3.*atbot.py'
+        'process': 'python3.*atbot.py',
+        'type': 'live'
     },
     'ps2tradeb': {
         'name': '🟡 PS2TRADEB (Binance Paper)',
         'log': '/root/btbot/ps2tradeb.log',
-        'process': 'python3.*ps2tradeb.py'
+        'process': 'python3.*ps2tradeb.py',
+        'type': 'paper'
     }
 }
 
@@ -101,7 +107,7 @@ def extract_account_info(bot_name):
             lines = f.readlines()
         
         info = {}
-        for line in lines[-50:]:  # Check last 50 lines
+        for line in lines[-50:]:
             if 'Account:' in line or 'Equity=' in line or 'Balance' in line:
                 info['account_line'] = line.strip()
             if 'ERROR' in line or 'error' in line:
@@ -118,7 +124,7 @@ def generate_status_report():
     """Generate daily status report"""
     logger.info("📊 Generating status report...")
     
-    report = "<b>📊 BOT STATUS REPORT</b>\n"
+    report = "<b>📊 DAILY BOT REPORT</b>\n"
     report += f"⏰ {datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC+7')}\n"
     report += "━━━━━━━━━━━━━━━━━━━━━━━━\n\n"
     
@@ -136,7 +142,6 @@ def generate_status_report():
             if account_info:
                 if 'account_line' in account_info:
                     line = account_info['account_line']
-                    # Truncate long lines
                     if len(line) > 100:
                         line = line[:100] + "..."
                     report += f"   💰 {line}\n"
@@ -155,13 +160,13 @@ def generate_status_report():
     report += "━━━━━━━━━━━━━━━━━━━━━━━━\n"
     report += f"<b>Summary:</b>\n"
     report += f"{'✅ All Bots Running' if all_running else '⚠️ Some Bots Offline'}\n"
-    report += f"\n📂 Logs: <a href='https://github.com/agencyhouse-lab/btbot'>GitHub Repo</a>\n"
+    report += f"\n📂 Monitor: <a href='https://github.com/agencyhouse-lab/btbot'>GitHub Repo</a>\n"
     
     return report
 
 def send_startup_notification():
     """Send startup message"""
-    msg = "🚀 <b>Bot Monitor Started</b>\n"
+    msg = "🚀 <b>Bot Monitor Started (@GSunny_Monitor_bot)</b>\n"
     msg += f"⏰ {datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC+7')}\n"
     msg += "📊 Monitoring 2 bots\n"
     msg += "📱 Daily reports at 8:00 AM UTC+7\n"
@@ -170,14 +175,16 @@ def send_startup_notification():
 def main():
     """Main monitoring loop"""
     print("\n" + "="*60)
-    print("📱 TELEGRAM BOT MONITOR v2.0")
+    print("📱 TELEGRAM BOT MONITOR v2.1")
     print("="*60)
     print(f"⏰ Start: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    print(f"📱 Bot: @GSunny_Monitor_bot")
     print(f"📱 Chat ID: {TELEGRAM_CHAT_ID}")
     print("="*60 + "\n")
     
     logger.info("🚀 Bot Monitor Started")
     logger.info(f"📊 Monitoring {len(BOTS)} bots")
+    logger.info(f"📱 Bot: @GSunny_Monitor_bot")
     
     # Send startup notification
     send_startup_notification()
@@ -204,7 +211,7 @@ def main():
                     if not is_bot_running(bot_name):
                         alert = f"⚠️ <b>ALERT: {BOTS[bot_name]['name']} OFFLINE</b>\n"
                         alert += f"⏰ {now.strftime('%H:%M:%S')}\n"
-                        alert += f"Action: Check /root/btbot/{bot_name}.log\n"
+                        alert += f"Action: Check logs\n"
                         send_telegram(alert)
                         logger.warning(f"⚠️ {bot_name} is offline!")
             
