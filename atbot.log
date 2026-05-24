@@ -1,0 +1,5 @@
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/root/trading_bot/atbot.py", line 13, in <module>
+    import alpaca_trade_api as tradeapi
+ModuleNotFoundError: No module named 'alpaca_trade_api'
