@@ -1,0 +1,384 @@
+2026-05-24 07:02:42,792 - INFO - 🚀 BTBOT v5.0 - WITH RISK MANAGEMENT
+2026-05-24 07:02:42,792 - INFO - 🚀 BTBOT v5.0 - WITH RISK MANAGEMENT
+2026-05-24 07:02:42,792 - INFO - 🔗 Mode: LIVE | Risk: 0.5% per trade | Max Loss: 3% daily
+2026-05-24 07:02:42,792 - INFO - 🔗 Mode: LIVE | Risk: 0.5% per trade | Max Loss: 3% daily
+2026-05-24 07:02:42,950 - INFO - ⏱️ BTBOT cycle 1: checking 5 pairs
+2026-05-24 07:02:42,950 - INFO - ⏱️ BTBOT cycle 1: checking 5 pairs
+2026-05-24 07:03:45,021 - INFO - ⏱️ BTBOT cycle 2: checking 5 pairs
+2026-05-24 07:03:45,021 - INFO - ⏱️ BTBOT cycle 2: checking 5 pairs
+2026-05-24 07:04:46,928 - INFO - ⏱️ BTBOT cycle 3: checking 5 pairs
+2026-05-24 07:04:46,928 - INFO - ⏱️ BTBOT cycle 3: checking 5 pairs
+2026-05-24 07:05:48,793 - INFO - ⏱️ BTBOT cycle 4: checking 5 pairs
+2026-05-24 07:05:48,793 - INFO - ⏱️ BTBOT cycle 4: checking 5 pairs
+2026-05-24 07:06:50,568 - INFO - ⏱️ BTBOT cycle 5: checking 5 pairs
+2026-05-24 07:06:50,568 - INFO - ⏱️ BTBOT cycle 5: checking 5 pairs
+2026-05-24 07:07:52,349 - INFO - ⏱️ BTBOT cycle 6: checking 5 pairs
+2026-05-24 07:07:52,349 - INFO - ⏱️ BTBOT cycle 6: checking 5 pairs
+2026-05-24 07:08:54,136 - INFO - ⏱️ BTBOT cycle 7: checking 5 pairs
+2026-05-24 07:08:54,136 - INFO - ⏱️ BTBOT cycle 7: checking 5 pairs
+2026-05-24 07:09:55,923 - INFO - ⏱️ BTBOT cycle 8: checking 5 pairs
+2026-05-24 07:09:55,923 - INFO - ⏱️ BTBOT cycle 8: checking 5 pairs
+2026-05-24 07:10:57,756 - INFO - ⏱️ BTBOT cycle 9: checking 5 pairs
+2026-05-24 07:10:57,756 - INFO - ⏱️ BTBOT cycle 9: checking 5 pairs
+2026-05-24 07:11:59,593 - INFO - ⏱️ BTBOT cycle 10: checking 5 pairs
+2026-05-24 07:11:59,593 - INFO - ⏱️ BTBOT cycle 10: checking 5 pairs
+2026-05-24 07:13:01,373 - INFO - ⏱️ BTBOT cycle 11: checking 5 pairs
+2026-05-24 07:13:01,373 - INFO - ⏱️ BTBOT cycle 11: checking 5 pairs
+2026-05-24 07:14:03,233 - INFO - ⏱️ BTBOT cycle 12: checking 5 pairs
+2026-05-24 07:14:03,233 - INFO - ⏱️ BTBOT cycle 12: checking 5 pairs
+2026-05-24 07:15:05,024 - INFO - ⏱️ BTBOT cycle 13: checking 5 pairs
+2026-05-24 07:15:05,024 - INFO - ⏱️ BTBOT cycle 13: checking 5 pairs
+2026-05-24 07:16:06,815 - INFO - ⏱️ BTBOT cycle 14: checking 5 pairs
+2026-05-24 07:16:06,815 - INFO - ⏱️ BTBOT cycle 14: checking 5 pairs
+2026-05-24 07:17:08,605 - INFO - ⏱️ BTBOT cycle 15: checking 5 pairs
+2026-05-24 07:17:08,605 - INFO - ⏱️ BTBOT cycle 15: checking 5 pairs
+2026-05-24 07:18:10,347 - INFO - ⏱️ BTBOT cycle 16: checking 5 pairs
+2026-05-24 07:18:10,347 - INFO - ⏱️ BTBOT cycle 16: checking 5 pairs
+2026-05-24 07:19:12,118 - INFO - ⏱️ BTBOT cycle 17: checking 5 pairs
+2026-05-24 07:19:12,118 - INFO - ⏱️ BTBOT cycle 17: checking 5 pairs
+2026-05-24 07:20:13,886 - INFO - ⏱️ BTBOT cycle 18: checking 5 pairs
+2026-05-24 07:20:13,886 - INFO - ⏱️ BTBOT cycle 18: checking 5 pairs
+2026-05-24 07:21:15,670 - INFO - ⏱️ BTBOT cycle 19: checking 5 pairs
+2026-05-24 07:21:15,670 - INFO - ⏱️ BTBOT cycle 19: checking 5 pairs
+2026-05-24 07:22:17,472 - INFO - ⏱️ BTBOT cycle 20: checking 5 pairs
+2026-05-24 07:22:17,472 - INFO - ⏱️ BTBOT cycle 20: checking 5 pairs
+2026-05-24 07:23:19,296 - INFO - ⏱️ BTBOT cycle 21: checking 5 pairs
+2026-05-24 07:23:19,296 - INFO - ⏱️ BTBOT cycle 21: checking 5 pairs
+2026-05-24 07:24:21,051 - INFO - ⏱️ BTBOT cycle 22: checking 5 pairs
+2026-05-24 07:24:21,051 - INFO - ⏱️ BTBOT cycle 22: checking 5 pairs
+2026-05-24 07:25:22,844 - INFO - ⏱️ BTBOT cycle 23: checking 5 pairs
+2026-05-24 07:25:22,844 - INFO - ⏱️ BTBOT cycle 23: checking 5 pairs
+2026-05-24 07:26:24,637 - INFO - ⏱️ BTBOT cycle 24: checking 5 pairs
+2026-05-24 07:26:24,637 - INFO - ⏱️ BTBOT cycle 24: checking 5 pairs
+2026-05-24 07:27:26,433 - INFO - ⏱️ BTBOT cycle 25: checking 5 pairs
+2026-05-24 07:27:26,433 - INFO - ⏱️ BTBOT cycle 25: checking 5 pairs
+2026-05-24 07:28:28,249 - INFO - ⏱️ BTBOT cycle 26: checking 5 pairs
+2026-05-24 07:28:28,249 - INFO - ⏱️ BTBOT cycle 26: checking 5 pairs
+2026-05-24 07:29:30,023 - INFO - ⏱️ BTBOT cycle 27: checking 5 pairs
+2026-05-24 07:29:30,023 - INFO - ⏱️ BTBOT cycle 27: checking 5 pairs
+2026-05-24 07:30:31,800 - INFO - ⏱️ BTBOT cycle 28: checking 5 pairs
+2026-05-24 07:30:31,800 - INFO - ⏱️ BTBOT cycle 28: checking 5 pairs
+2026-05-24 07:31:33,820 - INFO - ⏱️ BTBOT cycle 29: checking 5 pairs
+2026-05-24 07:31:33,820 - INFO - ⏱️ BTBOT cycle 29: checking 5 pairs
+2026-05-24 07:32:35,580 - INFO - ⏱️ BTBOT cycle 30: checking 5 pairs
+2026-05-24 07:32:35,580 - INFO - ⏱️ BTBOT cycle 30: checking 5 pairs
+2026-05-24 07:33:37,446 - INFO - ⏱️ BTBOT cycle 31: checking 5 pairs
+2026-05-24 07:33:37,446 - INFO - ⏱️ BTBOT cycle 31: checking 5 pairs
+2026-05-24 07:34:39,199 - INFO - ⏱️ BTBOT cycle 32: checking 5 pairs
+2026-05-24 07:34:39,199 - INFO - ⏱️ BTBOT cycle 32: checking 5 pairs
+2026-05-24 07:35:40,984 - INFO - ⏱️ BTBOT cycle 33: checking 5 pairs
+2026-05-24 07:35:40,984 - INFO - ⏱️ BTBOT cycle 33: checking 5 pairs
+2026-05-24 07:36:42,792 - INFO - ⏱️ BTBOT cycle 34: checking 5 pairs
+2026-05-24 07:36:42,792 - INFO - ⏱️ BTBOT cycle 34: checking 5 pairs
+2026-05-24 07:37:44,605 - INFO - ⏱️ BTBOT cycle 35: checking 5 pairs
+2026-05-24 07:37:44,605 - INFO - ⏱️ BTBOT cycle 35: checking 5 pairs
+2026-05-24 07:38:46,393 - INFO - ⏱️ BTBOT cycle 36: checking 5 pairs
+2026-05-24 07:38:46,393 - INFO - ⏱️ BTBOT cycle 36: checking 5 pairs
+2026-05-24 07:39:48,294 - INFO - ⏱️ BTBOT cycle 37: checking 5 pairs
+2026-05-24 07:39:48,294 - INFO - ⏱️ BTBOT cycle 37: checking 5 pairs
+2026-05-24 07:40:50,078 - INFO - ⏱️ BTBOT cycle 38: checking 5 pairs
+2026-05-24 07:40:50,078 - INFO - ⏱️ BTBOT cycle 38: checking 5 pairs
+2026-05-24 07:41:51,839 - INFO - ⏱️ BTBOT cycle 39: checking 5 pairs
+2026-05-24 07:41:51,839 - INFO - ⏱️ BTBOT cycle 39: checking 5 pairs
+2026-05-24 07:42:53,709 - INFO - ⏱️ BTBOT cycle 40: checking 5 pairs
+2026-05-24 07:42:53,709 - INFO - ⏱️ BTBOT cycle 40: checking 5 pairs
+2026-05-24 07:43:55,610 - INFO - ⏱️ BTBOT cycle 41: checking 5 pairs
+2026-05-24 07:43:55,610 - INFO - ⏱️ BTBOT cycle 41: checking 5 pairs
+2026-05-24 07:44:57,417 - INFO - ⏱️ BTBOT cycle 42: checking 5 pairs
+2026-05-24 07:44:57,417 - INFO - ⏱️ BTBOT cycle 42: checking 5 pairs
+2026-05-24 07:45:59,416 - INFO - ⏱️ BTBOT cycle 43: checking 5 pairs
+2026-05-24 07:45:59,416 - INFO - ⏱️ BTBOT cycle 43: checking 5 pairs
+2026-05-24 07:47:01,248 - INFO - ⏱️ BTBOT cycle 44: checking 5 pairs
+2026-05-24 07:47:01,248 - INFO - ⏱️ BTBOT cycle 44: checking 5 pairs
+2026-05-24 07:48:03,071 - INFO - ⏱️ BTBOT cycle 45: checking 5 pairs
+2026-05-24 07:48:03,071 - INFO - ⏱️ BTBOT cycle 45: checking 5 pairs
+2026-05-24 07:49:04,876 - INFO - ⏱️ BTBOT cycle 46: checking 5 pairs
+2026-05-24 07:49:04,876 - INFO - ⏱️ BTBOT cycle 46: checking 5 pairs
+2026-05-24 07:50:06,653 - INFO - ⏱️ BTBOT cycle 47: checking 5 pairs
+2026-05-24 07:50:06,653 - INFO - ⏱️ BTBOT cycle 47: checking 5 pairs
+2026-05-24 07:51:08,500 - INFO - ⏱️ BTBOT cycle 48: checking 5 pairs
+2026-05-24 07:51:08,500 - INFO - ⏱️ BTBOT cycle 48: checking 5 pairs
+2026-05-24 07:52:10,304 - INFO - ⏱️ BTBOT cycle 49: checking 5 pairs
+2026-05-24 07:52:10,304 - INFO - ⏱️ BTBOT cycle 49: checking 5 pairs
+2026-05-24 07:53:12,134 - INFO - ⏱️ BTBOT cycle 50: checking 5 pairs
+2026-05-24 07:53:12,134 - INFO - ⏱️ BTBOT cycle 50: checking 5 pairs
+2026-05-24 07:54:13,978 - INFO - ⏱️ BTBOT cycle 51: checking 5 pairs
+2026-05-24 07:54:13,978 - INFO - ⏱️ BTBOT cycle 51: checking 5 pairs
+2026-05-24 07:55:15,715 - INFO - ⏱️ BTBOT cycle 52: checking 5 pairs
+2026-05-24 07:55:15,715 - INFO - ⏱️ BTBOT cycle 52: checking 5 pairs
+2026-05-24 07:56:17,566 - INFO - ⏱️ BTBOT cycle 53: checking 5 pairs
+2026-05-24 07:56:17,566 - INFO - ⏱️ BTBOT cycle 53: checking 5 pairs
+2026-05-24 07:57:19,357 - INFO - ⏱️ BTBOT cycle 54: checking 5 pairs
+2026-05-24 07:57:19,357 - INFO - ⏱️ BTBOT cycle 54: checking 5 pairs
+2026-05-24 07:58:21,095 - INFO - ⏱️ BTBOT cycle 55: checking 5 pairs
+2026-05-24 07:58:21,095 - INFO - ⏱️ BTBOT cycle 55: checking 5 pairs
+2026-05-24 07:59:22,876 - INFO - ⏱️ BTBOT cycle 56: checking 5 pairs
+2026-05-24 07:59:22,876 - INFO - ⏱️ BTBOT cycle 56: checking 5 pairs
+2026-05-24 08:00:24,660 - INFO - ⏱️ BTBOT cycle 57: checking 5 pairs
+2026-05-24 08:00:24,660 - INFO - ⏱️ BTBOT cycle 57: checking 5 pairs
+2026-05-24 08:01:26,430 - INFO - ⏱️ BTBOT cycle 58: checking 5 pairs
+2026-05-24 08:01:26,430 - INFO - ⏱️ BTBOT cycle 58: checking 5 pairs
+2026-05-24 08:02:28,286 - INFO - ⏱️ BTBOT cycle 59: checking 5 pairs
+2026-05-24 08:02:28,286 - INFO - ⏱️ BTBOT cycle 59: checking 5 pairs
+2026-05-24 08:03:30,078 - INFO - ⏱️ BTBOT cycle 60: checking 5 pairs
+2026-05-24 08:03:30,078 - INFO - ⏱️ BTBOT cycle 60: checking 5 pairs
+2026-05-24 08:04:31,854 - INFO - ⏱️ BTBOT cycle 61: checking 5 pairs
+2026-05-24 08:04:31,854 - INFO - ⏱️ BTBOT cycle 61: checking 5 pairs
+2026-05-24 08:05:33,645 - INFO - ⏱️ BTBOT cycle 62: checking 5 pairs
+2026-05-24 08:05:33,645 - INFO - ⏱️ BTBOT cycle 62: checking 5 pairs
+2026-05-24 08:06:35,425 - INFO - ⏱️ BTBOT cycle 63: checking 5 pairs
+2026-05-24 08:06:35,425 - INFO - ⏱️ BTBOT cycle 63: checking 5 pairs
+2026-05-24 08:07:37,252 - INFO - ⏱️ BTBOT cycle 64: checking 5 pairs
+2026-05-24 08:07:37,252 - INFO - ⏱️ BTBOT cycle 64: checking 5 pairs
+2026-05-24 08:08:39,069 - INFO - ⏱️ BTBOT cycle 65: checking 5 pairs
+2026-05-24 08:08:39,069 - INFO - ⏱️ BTBOT cycle 65: checking 5 pairs
+2026-05-24 08:09:40,848 - INFO - ⏱️ BTBOT cycle 66: checking 5 pairs
+2026-05-24 08:09:40,848 - INFO - ⏱️ BTBOT cycle 66: checking 5 pairs
+2026-05-24 08:10:42,635 - INFO - ⏱️ BTBOT cycle 67: checking 5 pairs
+2026-05-24 08:10:42,635 - INFO - ⏱️ BTBOT cycle 67: checking 5 pairs
+2026-05-24 08:11:44,601 - INFO - ⏱️ BTBOT cycle 68: checking 5 pairs
+2026-05-24 08:11:44,601 - INFO - ⏱️ BTBOT cycle 68: checking 5 pairs
+2026-05-24 08:12:46,396 - INFO - ⏱️ BTBOT cycle 69: checking 5 pairs
+2026-05-24 08:12:46,396 - INFO - ⏱️ BTBOT cycle 69: checking 5 pairs
+2026-05-24 08:13:48,209 - INFO - ⏱️ BTBOT cycle 70: checking 5 pairs
+2026-05-24 08:13:48,209 - INFO - ⏱️ BTBOT cycle 70: checking 5 pairs
+2026-05-24 08:14:49,995 - INFO - ⏱️ BTBOT cycle 71: checking 5 pairs
+2026-05-24 08:14:49,995 - INFO - ⏱️ BTBOT cycle 71: checking 5 pairs
+2026-05-24 08:15:51,837 - INFO - ⏱️ BTBOT cycle 72: checking 5 pairs
+2026-05-24 08:15:51,837 - INFO - ⏱️ BTBOT cycle 72: checking 5 pairs
+2026-05-24 08:16:53,594 - INFO - ⏱️ BTBOT cycle 73: checking 5 pairs
+2026-05-24 08:16:53,594 - INFO - ⏱️ BTBOT cycle 73: checking 5 pairs
+2026-05-24 08:17:55,437 - INFO - ⏱️ BTBOT cycle 74: checking 5 pairs
+2026-05-24 08:17:55,437 - INFO - ⏱️ BTBOT cycle 74: checking 5 pairs
+2026-05-24 08:18:57,209 - INFO - ⏱️ BTBOT cycle 75: checking 5 pairs
+2026-05-24 08:18:57,209 - INFO - ⏱️ BTBOT cycle 75: checking 5 pairs
+2026-05-24 08:19:59,014 - INFO - ⏱️ BTBOT cycle 76: checking 5 pairs
+2026-05-24 08:19:59,014 - INFO - ⏱️ BTBOT cycle 76: checking 5 pairs
+2026-05-24 08:21:00,863 - INFO - ⏱️ BTBOT cycle 77: checking 5 pairs
+2026-05-24 08:21:00,863 - INFO - ⏱️ BTBOT cycle 77: checking 5 pairs
+2026-05-24 08:22:02,644 - INFO - ⏱️ BTBOT cycle 78: checking 5 pairs
+2026-05-24 08:22:02,644 - INFO - ⏱️ BTBOT cycle 78: checking 5 pairs
+2026-05-24 08:23:04,496 - INFO - ⏱️ BTBOT cycle 79: checking 5 pairs
+2026-05-24 08:23:04,496 - INFO - ⏱️ BTBOT cycle 79: checking 5 pairs
+2026-05-24 08:23:06,847 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:23:06,847 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:24:07,019 - INFO - ⏱️ BTBOT cycle 80: checking 5 pairs
+2026-05-24 08:24:07,019 - INFO - ⏱️ BTBOT cycle 80: checking 5 pairs
+2026-05-24 08:24:09,400 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:24:09,400 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:25:09,520 - INFO - ⏱️ BTBOT cycle 81: checking 5 pairs
+2026-05-24 08:25:09,520 - INFO - ⏱️ BTBOT cycle 81: checking 5 pairs
+2026-05-24 08:25:11,989 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:25:11,989 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:26:12,148 - INFO - ⏱️ BTBOT cycle 82: checking 5 pairs
+2026-05-24 08:26:12,148 - INFO - ⏱️ BTBOT cycle 82: checking 5 pairs
+2026-05-24 08:26:14,514 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:26:14,514 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:27:14,659 - INFO - ⏱️ BTBOT cycle 83: checking 5 pairs
+2026-05-24 08:27:14,659 - INFO - ⏱️ BTBOT cycle 83: checking 5 pairs
+2026-05-24 08:27:16,996 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:27:16,996 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:28:17,139 - INFO - ⏱️ BTBOT cycle 84: checking 5 pairs
+2026-05-24 08:28:17,139 - INFO - ⏱️ BTBOT cycle 84: checking 5 pairs
+2026-05-24 08:28:19,504 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:28:19,504 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:29:19,628 - INFO - ⏱️ BTBOT cycle 85: checking 5 pairs
+2026-05-24 08:29:19,628 - INFO - ⏱️ BTBOT cycle 85: checking 5 pairs
+2026-05-24 08:29:22,011 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:29:22,011 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:30:22,189 - INFO - ⏱️ BTBOT cycle 86: checking 5 pairs
+2026-05-24 08:30:22,189 - INFO - ⏱️ BTBOT cycle 86: checking 5 pairs
+2026-05-24 08:30:24,531 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:30:24,531 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:31:24,752 - INFO - ⏱️ BTBOT cycle 87: checking 5 pairs
+2026-05-24 08:31:24,752 - INFO - ⏱️ BTBOT cycle 87: checking 5 pairs
+2026-05-24 08:31:27,168 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:31:27,168 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:32:27,304 - INFO - ⏱️ BTBOT cycle 88: checking 5 pairs
+2026-05-24 08:32:27,304 - INFO - ⏱️ BTBOT cycle 88: checking 5 pairs
+2026-05-24 08:32:29,643 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:32:29,643 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:33:29,812 - INFO - ⏱️ BTBOT cycle 89: checking 5 pairs
+2026-05-24 08:33:29,812 - INFO - ⏱️ BTBOT cycle 89: checking 5 pairs
+2026-05-24 08:33:32,146 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:33:32,146 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:34:32,306 - INFO - ⏱️ BTBOT cycle 90: checking 5 pairs
+2026-05-24 08:34:32,306 - INFO - ⏱️ BTBOT cycle 90: checking 5 pairs
+2026-05-24 08:34:34,636 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:34:34,636 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:35:34,807 - INFO - ⏱️ BTBOT cycle 91: checking 5 pairs
+2026-05-24 08:35:34,807 - INFO - ⏱️ BTBOT cycle 91: checking 5 pairs
+2026-05-24 08:35:37,149 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:35:37,149 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:36:37,293 - INFO - ⏱️ BTBOT cycle 92: checking 5 pairs
+2026-05-24 08:36:37,293 - INFO - ⏱️ BTBOT cycle 92: checking 5 pairs
+2026-05-24 08:36:39,641 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:36:39,641 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:37:39,777 - INFO - ⏱️ BTBOT cycle 93: checking 5 pairs
+2026-05-24 08:37:39,777 - INFO - ⏱️ BTBOT cycle 93: checking 5 pairs
+2026-05-24 08:37:42,118 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:37:42,118 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:38:42,252 - INFO - ⏱️ BTBOT cycle 94: checking 5 pairs
+2026-05-24 08:38:42,252 - INFO - ⏱️ BTBOT cycle 94: checking 5 pairs
+2026-05-24 08:38:44,737 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:38:44,737 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:39:44,883 - INFO - ⏱️ BTBOT cycle 95: checking 5 pairs
+2026-05-24 08:39:44,883 - INFO - ⏱️ BTBOT cycle 95: checking 5 pairs
+2026-05-24 08:39:47,240 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:39:47,240 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:40:47,466 - INFO - ⏱️ BTBOT cycle 96: checking 5 pairs
+2026-05-24 08:40:47,466 - INFO - ⏱️ BTBOT cycle 96: checking 5 pairs
+2026-05-24 08:40:49,790 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:40:49,790 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:41:49,941 - INFO - ⏱️ BTBOT cycle 97: checking 5 pairs
+2026-05-24 08:41:49,941 - INFO - ⏱️ BTBOT cycle 97: checking 5 pairs
+2026-05-24 08:41:52,333 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:41:52,333 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:42:52,487 - INFO - ⏱️ BTBOT cycle 98: checking 5 pairs
+2026-05-24 08:42:52,487 - INFO - ⏱️ BTBOT cycle 98: checking 5 pairs
+2026-05-24 08:42:54,847 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:42:54,847 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:43:55,000 - INFO - ⏱️ BTBOT cycle 99: checking 5 pairs
+2026-05-24 08:43:55,000 - INFO - ⏱️ BTBOT cycle 99: checking 5 pairs
+2026-05-24 08:43:57,373 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:43:57,373 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:44:57,569 - INFO - ⏱️ BTBOT cycle 100: checking 5 pairs
+2026-05-24 08:44:57,569 - INFO - ⏱️ BTBOT cycle 100: checking 5 pairs
+2026-05-24 08:44:59,926 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:44:59,926 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 08:46:00,086 - INFO - ⏱️ BTBOT cycle 101: checking 5 pairs
+2026-05-24 08:46:00,086 - INFO - ⏱️ BTBOT cycle 101: checking 5 pairs
+2026-05-24 08:46:02,459 - INFO - ✉️ Telegram sent: 175 chars
+2026-05-24 08:46:02,459 - INFO - ✉️ Telegram sent: 175 chars
+2026-05-24 08:47:02,589 - INFO - ⏱️ BTBOT cycle 102: checking 5 pairs
+2026-05-24 08:47:02,589 - INFO - ⏱️ BTBOT cycle 102: checking 5 pairs
+2026-05-24 08:47:04,954 - INFO - ✉️ Telegram sent: 175 chars
+2026-05-24 08:47:04,954 - INFO - ✉️ Telegram sent: 175 chars
+2026-05-24 08:48:05,132 - INFO - ⏱️ BTBOT cycle 103: checking 5 pairs
+2026-05-24 08:48:05,132 - INFO - ⏱️ BTBOT cycle 103: checking 5 pairs
+2026-05-24 08:48:07,476 - INFO - ✉️ Telegram sent: 175 chars
+2026-05-24 08:48:07,476 - INFO - ✉️ Telegram sent: 175 chars
+2026-05-24 08:49:07,686 - INFO - ⏱️ BTBOT cycle 104: checking 5 pairs
+2026-05-24 08:49:07,686 - INFO - ⏱️ BTBOT cycle 104: checking 5 pairs
+2026-05-24 08:49:10,083 - INFO - ✉️ Telegram sent: 175 chars
+2026-05-24 08:49:10,083 - INFO - ✉️ Telegram sent: 175 chars
+2026-05-24 08:50:10,242 - INFO - ⏱️ BTBOT cycle 105: checking 5 pairs
+2026-05-24 08:50:10,242 - INFO - ⏱️ BTBOT cycle 105: checking 5 pairs
+2026-05-24 08:50:12,596 - INFO - ✉️ Telegram sent: 175 chars
+2026-05-24 08:50:12,596 - INFO - ✉️ Telegram sent: 175 chars
+2026-05-24 08:51:12,752 - INFO - ⏱️ BTBOT cycle 106: checking 5 pairs
+2026-05-24 08:51:12,752 - INFO - ⏱️ BTBOT cycle 106: checking 5 pairs
+2026-05-24 08:51:15,139 - INFO - ✉️ Telegram sent: 175 chars
+2026-05-24 08:51:15,139 - INFO - ✉️ Telegram sent: 175 chars
+2026-05-24 08:52:15,299 - INFO - ⏱️ BTBOT cycle 107: checking 5 pairs
+2026-05-24 08:52:15,299 - INFO - ⏱️ BTBOT cycle 107: checking 5 pairs
+2026-05-24 08:52:17,642 - INFO - ✉️ Telegram sent: 175 chars
+2026-05-24 08:52:17,642 - INFO - ✉️ Telegram sent: 175 chars
+2026-05-24 08:53:17,801 - INFO - ⏱️ BTBOT cycle 108: checking 5 pairs
+2026-05-24 08:53:17,801 - INFO - ⏱️ BTBOT cycle 108: checking 5 pairs
+2026-05-24 08:53:20,173 - INFO - ✉️ Telegram sent: 175 chars
+2026-05-24 08:53:20,173 - INFO - ✉️ Telegram sent: 175 chars
+2026-05-24 08:54:20,338 - INFO - ⏱️ BTBOT cycle 109: checking 5 pairs
+2026-05-24 08:54:20,338 - INFO - ⏱️ BTBOT cycle 109: checking 5 pairs
+2026-05-24 08:54:22,675 - INFO - ✉️ Telegram sent: 175 chars
+2026-05-24 08:54:22,675 - INFO - ✉️ Telegram sent: 175 chars
+2026-05-24 08:55:22,843 - INFO - ⏱️ BTBOT cycle 110: checking 5 pairs
+2026-05-24 08:55:22,843 - INFO - ⏱️ BTBOT cycle 110: checking 5 pairs
+2026-05-24 08:55:25,170 - INFO - ✉️ Telegram sent: 175 chars
+2026-05-24 08:55:25,170 - INFO - ✉️ Telegram sent: 175 chars
+2026-05-24 08:56:25,330 - INFO - ⏱️ BTBOT cycle 111: checking 5 pairs
+2026-05-24 08:56:25,330 - INFO - ⏱️ BTBOT cycle 111: checking 5 pairs
+2026-05-24 08:56:27,702 - INFO - ✉️ Telegram sent: 175 chars
+2026-05-24 08:56:27,702 - INFO - ✉️ Telegram sent: 175 chars
+2026-05-24 08:57:27,873 - INFO - ⏱️ BTBOT cycle 112: checking 5 pairs
+2026-05-24 08:57:27,873 - INFO - ⏱️ BTBOT cycle 112: checking 5 pairs
+2026-05-24 08:57:30,336 - INFO - ✉️ Telegram sent: 175 chars
+2026-05-24 08:57:30,336 - INFO - ✉️ Telegram sent: 175 chars
+2026-05-24 08:58:30,480 - INFO - ⏱️ BTBOT cycle 113: checking 5 pairs
+2026-05-24 08:58:30,480 - INFO - ⏱️ BTBOT cycle 113: checking 5 pairs
+2026-05-24 08:58:32,835 - INFO - ✉️ Telegram sent: 175 chars
+2026-05-24 08:58:32,835 - INFO - ✉️ Telegram sent: 175 chars
+2026-05-24 08:59:33,039 - INFO - ⏱️ BTBOT cycle 114: checking 5 pairs
+2026-05-24 08:59:33,039 - INFO - ⏱️ BTBOT cycle 114: checking 5 pairs
+2026-05-24 08:59:35,367 - INFO - ✉️ Telegram sent: 175 chars
+2026-05-24 08:59:35,367 - INFO - ✉️ Telegram sent: 175 chars
+2026-05-24 09:00:35,579 - INFO - ⏱️ BTBOT cycle 115: checking 5 pairs
+2026-05-24 09:00:35,579 - INFO - ⏱️ BTBOT cycle 115: checking 5 pairs
+2026-05-24 09:00:37,956 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:00:37,956 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:01:38,126 - INFO - ⏱️ BTBOT cycle 116: checking 5 pairs
+2026-05-24 09:01:38,126 - INFO - ⏱️ BTBOT cycle 116: checking 5 pairs
+2026-05-24 09:01:40,523 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:01:40,523 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:02:40,695 - INFO - ⏱️ BTBOT cycle 117: checking 5 pairs
+2026-05-24 09:02:40,695 - INFO - ⏱️ BTBOT cycle 117: checking 5 pairs
+2026-05-24 09:02:43,032 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:02:43,032 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:03:43,186 - INFO - ⏱️ BTBOT cycle 118: checking 5 pairs
+2026-05-24 09:03:43,186 - INFO - ⏱️ BTBOT cycle 118: checking 5 pairs
+2026-05-24 09:03:45,570 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:03:45,570 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:04:45,691 - INFO - ⏱️ BTBOT cycle 119: checking 5 pairs
+2026-05-24 09:04:45,691 - INFO - ⏱️ BTBOT cycle 119: checking 5 pairs
+2026-05-24 09:04:48,150 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:04:48,150 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:05:48,295 - INFO - ⏱️ BTBOT cycle 120: checking 5 pairs
+2026-05-24 09:05:48,295 - INFO - ⏱️ BTBOT cycle 120: checking 5 pairs
+2026-05-24 09:05:50,685 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:05:50,685 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:06:50,855 - INFO - ⏱️ BTBOT cycle 121: checking 5 pairs
+2026-05-24 09:06:50,855 - INFO - ⏱️ BTBOT cycle 121: checking 5 pairs
+2026-05-24 09:06:53,205 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:06:53,205 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:07:53,418 - INFO - ⏱️ BTBOT cycle 122: checking 5 pairs
+2026-05-24 09:07:53,418 - INFO - ⏱️ BTBOT cycle 122: checking 5 pairs
+2026-05-24 09:07:55,742 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:07:55,742 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:08:55,894 - INFO - ⏱️ BTBOT cycle 123: checking 5 pairs
+2026-05-24 09:08:55,894 - INFO - ⏱️ BTBOT cycle 123: checking 5 pairs
+2026-05-24 09:08:58,248 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:08:58,248 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:09:58,367 - INFO - ⏱️ BTBOT cycle 124: checking 5 pairs
+2026-05-24 09:09:58,367 - INFO - ⏱️ BTBOT cycle 124: checking 5 pairs
+2026-05-24 09:10:00,720 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:10:00,720 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:11:00,848 - INFO - ⏱️ BTBOT cycle 125: checking 5 pairs
+2026-05-24 09:11:00,848 - INFO - ⏱️ BTBOT cycle 125: checking 5 pairs
+2026-05-24 09:11:03,208 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:11:03,208 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:12:03,378 - INFO - ⏱️ BTBOT cycle 126: checking 5 pairs
+2026-05-24 09:12:03,378 - INFO - ⏱️ BTBOT cycle 126: checking 5 pairs
+2026-05-24 09:12:05,769 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:12:05,769 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:13:05,913 - INFO - ⏱️ BTBOT cycle 127: checking 5 pairs
+2026-05-24 09:13:05,913 - INFO - ⏱️ BTBOT cycle 127: checking 5 pairs
+2026-05-24 09:13:08,292 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:13:08,292 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:14:08,461 - INFO - ⏱️ BTBOT cycle 128: checking 5 pairs
+2026-05-24 09:14:08,461 - INFO - ⏱️ BTBOT cycle 128: checking 5 pairs
+2026-05-24 09:14:10,799 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:14:10,799 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:15:10,960 - INFO - ⏱️ BTBOT cycle 129: checking 5 pairs
+2026-05-24 09:15:10,960 - INFO - ⏱️ BTBOT cycle 129: checking 5 pairs
+2026-05-24 09:15:13,339 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:15:13,339 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:16:13,453 - INFO - ⏱️ BTBOT cycle 130: checking 5 pairs
+2026-05-24 09:16:13,453 - INFO - ⏱️ BTBOT cycle 130: checking 5 pairs
+2026-05-24 09:16:15,794 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:16:15,794 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:17:15,952 - INFO - ⏱️ BTBOT cycle 131: checking 5 pairs
+2026-05-24 09:17:15,952 - INFO - ⏱️ BTBOT cycle 131: checking 5 pairs
+2026-05-24 09:17:18,451 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:17:18,451 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:18:18,631 - INFO - ⏱️ BTBOT cycle 132: checking 5 pairs
+2026-05-24 09:18:18,631 - INFO - ⏱️ BTBOT cycle 132: checking 5 pairs
+2026-05-24 09:18:21,092 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:18:21,092 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:19:21,269 - INFO - ⏱️ BTBOT cycle 133: checking 5 pairs
+2026-05-24 09:19:21,269 - INFO - ⏱️ BTBOT cycle 133: checking 5 pairs
+2026-05-24 09:19:23,617 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:19:23,617 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:20:23,784 - INFO - ⏱️ BTBOT cycle 134: checking 5 pairs
+2026-05-24 09:20:23,784 - INFO - ⏱️ BTBOT cycle 134: checking 5 pairs
+2026-05-24 09:20:26,133 - INFO - ✉️ Telegram sent: 174 chars
+2026-05-24 09:20:26,133 - INFO - ✉️ Telegram sent: 174 chars

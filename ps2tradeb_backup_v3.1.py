@@ -162,12 +162,9 @@ class PS2TradeB:
                 'X-MBX-APIKEY': self.api_key
             }
             
-            timestamp = int(time.time() * 1000)
-            query_string = f"timestamp={timestamp}"
-            signature = __import__("hmac").new(self.secret_key.encode(), query_string.encode(), __import__("hashlib").sha256).hexdigest()
             url = f"{BINANCE_BASE_URL}/v3/account"
             
-            response = requests.get(url, headers=headers, params={"timestamp": timestamp, "signature": signature}, timeout=10)
+            response = requests.get(url, headers=headers, timeout=10)
             
             if response.status_code == 401:
                 logger.error("❌ PS2TRADEB: Unauthorized - Invalid API Key or Secret")

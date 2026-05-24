@@ -1,0 +1,141 @@
+2026-05-24 07:10:04,797 - INFO - ================================================================================
+2026-05-24 07:10:04,797 - INFO - 🚀 ATBOT v3.0 PRODUCTION - LIVE TRADING
+2026-05-24 07:10:04,797 - INFO - ================================================================================
+2026-05-24 07:10:04,797 - INFO - ✅ ATBOT: Alpaca Live API connected
+2026-05-24 07:10:04,797 - INFO - ✅ ATBOT State loaded: 0 trades
+2026-05-24 07:10:05,535 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 07:10:05,536 - INFO - ✅ ATBOT Connected: $248.91
+2026-05-24 07:10:06,261 - INFO - ✉️ ATBOT Telegram sent
+2026-05-24 07:10:06,261 - ERROR - ❌ ATBOT loop error: integer division or modulo by zero
+2026-05-24 07:10:36,279 - ERROR - ❌ ATBOT loop error: integer division or modulo by zero
+2026-05-24 07:11:06,305 - ERROR - ❌ ATBOT loop error: integer division or modulo by zero
+2026-05-24 07:11:36,335 - ERROR - ❌ ATBOT loop error: integer division or modulo by zero
+2026-05-24 07:12:06,340 - ERROR - ❌ ATBOT loop error: integer division or modulo by zero
+2026-05-24 07:12:36,370 - ERROR - ❌ ATBOT loop error: integer division or modulo by zero
+2026-05-24 07:13:06,400 - ERROR - ❌ ATBOT loop error: integer division or modulo by zero
+2026-05-24 07:13:36,431 - ERROR - ❌ ATBOT loop error: integer division or modulo by zero
+2026-05-24 07:14:06,437 - ERROR - ❌ ATBOT loop error: integer division or modulo by zero
+2026-05-24 07:14:37,002 - INFO - 🚀 ATBOT v5.1 - ALPACA LIVE TRADING (FIXED)
+2026-05-24 07:14:37,002 - INFO - 🚀 ATBOT v5.1 - ALPACA LIVE TRADING (FIXED)
+2026-05-24 07:14:37,733 - ERROR - Account error: 401
+2026-05-24 07:14:37,733 - ERROR - Account error: 401
+2026-05-24 07:15:38,486 - ERROR - Account error: 401
+2026-05-24 07:15:38,486 - ERROR - Account error: 401
+2026-05-24 07:16:39,264 - ERROR - Account error: 401
+2026-05-24 07:16:39,264 - ERROR - Account error: 401
+2026-05-24 07:22:57,871 - INFO - 🚀 ATBOT v5.2 - ALPACA PAPER ACCOUNT
+2026-05-24 07:22:57,871 - INFO - 🚀 ATBOT v5.2 - ALPACA PAPER ACCOUNT
+2026-05-24 07:22:58,594 - INFO - ✉️ Telegram sent: 39 chars
+2026-05-24 07:22:58,594 - INFO - ✉️ Telegram sent: 39 chars
+2026-05-24 07:22:59,327 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:22:59,327 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:24:00,112 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:24:00,112 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:25:00,863 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:25:00,863 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:26:01,619 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:26:01,619 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:27:02,399 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:27:02,399 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:28:03,185 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:28:03,185 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:29:03,965 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:29:03,965 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:30:04,749 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:30:04,749 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:31:05,533 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:31:05,533 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:32:06,318 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:32:06,318 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:33:07,107 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:33:07,107 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:34:07,873 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:34:07,873 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:35:08,652 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:35:08,652 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:36:09,403 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:36:09,403 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:37:10,163 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:37:10,163 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:38:10,917 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:38:10,917 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:39:11,693 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:39:11,693 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:40:12,470 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:40:12,470 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:41:13,245 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:41:13,245 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:42:14,026 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:42:14,026 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:43:14,784 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:43:14,784 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:44:15,570 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:44:15,570 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:45:16,357 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:45:16,357 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:46:17,129 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:46:17,129 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:47:17,909 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:47:17,909 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:48:18,644 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:48:18,644 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:49:19,407 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:49:19,407 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:50:20,189 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+
+2026-05-24 07:50:20,189 - ERROR - ❌ Account error: 401 - {"message": "unauthorized."}
+

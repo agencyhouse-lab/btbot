@@ -165,10 +165,10 @@ class ATBot:
                 try:
                     # Get barset data
                     bars = self.api.get_bars(symbol, '1Min', limit=20)
-                    if bars is None or len(bars) == 0:
-                        logger.warning(f"⚠️ No data for {symbol}")
+                    
                         continue
                     
+                    bars = barset[symbol]
                     
                     # FIX: Check if we have enough data
                     if len(bars) < 5:

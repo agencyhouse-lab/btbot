@@ -100,43 +100,4 @@ def main():
                                 msg = f"🔵 ETBOT v5 - EXIT\n{exit_signal['action']}\n{symbol} @ ${exit_signal['exit_price']:.2f}\nP&L: ${exit_signal['pnl']:.2f}"
                                 send_telegram(msg)
                 except Exception as e:
-                    logger.debug(f"Exit check error for {symbol}: {e}")
-                    continue
-            
-            # Generate signals
-            signals = []
-            for symbol, coin_id in symbols:
-                sig = generate_signal(symbol, coin_id)
-                if sig:
-                    signals.append(sig)
-                    logger.info(f"Signal: {sig}")
-            
-            if signals:
-                msg = f"🔵 ETBOT v5 - {len(signals)} SIGNALS (WITH RISK MGT)\n"
-                for s in signals:
-                    can_open, reason = risk_mgr.can_open_position()
-                    
-                    if can_open:
-                        stop_price = s['price'] * (1 - 0.03)
-                        qty = risk_mgr.get_position_size(s['price'], stop_price)
-                        success, result = risk_mgr.open_position(s['symbol'], s['price'], qty)
-                        
-                        if success:
-                            msg += f"\n  {s['symbol']}: {s['action']} @ ${s['price']:.2f}\n"
-                            msg += f"    Size: {qty:.6f} | Stop: ${result['stop']:.2f} | Target: ${result['target']:.2f}\n"
-                            msg += f"    Change: {s['change']:+.2f}%"
-                    else:
-                        msg += f"\n  {s['symbol']}: Signal but {reason}"
-                
-                status = risk_mgr.get_status()
-                msg += f"\n\n📊 Status: {status['open_positions']}/{status['max_positions']} | Daily P&L: ${status['daily_pnl']:.2f}"
-                send_telegram(msg)
-                logger.info(f"Telegram sent for {len(signals)} signals")
-            
-            time.sleep(60)
-        except Exception as e:
-            logger.error(f"Loop error: {e}")
-            time.sleep(60)
 
-if __name__ == "__main__":
-    main()

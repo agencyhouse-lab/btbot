@@ -34,7 +34,7 @@ API_KEY = os.getenv('ALPACA_API_KEY')
 SECRET_KEY = os.getenv('ALPACA_SECRET_KEY')
 BASE_URL = os.getenv('ALPACA_BASE_URL', 'https://api.alpaca.markets')
 
-TELEGRAM_TOKEN = os.getenv('TELEGRAM_ATBOT_TOKEN', '8924056219:AAE3as-NwRVFRnaA8GOO1DmXGm7CU1S5sJQ')
+TELEGRAM_TOKEN = os.getenv('TELEGRAM_TOKEN')
 TELEGRAM_CHAT_ID = os.getenv('TELEGRAM_CHAT_ID')
 TELEGRAM_URL = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
 
@@ -164,11 +164,13 @@ class ATBot:
             for symbol in TRADING_SYMBOLS:
                 try:
                     # Get barset data
-                    bars = self.api.get_bars(symbol, '1Min', limit=20)
-                    if bars is None or len(bars) == 0:
+                    barset = self.api.get_barset(symbol, 'minute', limit=20)
+                    
+                    if symbol not in barset:
                         logger.warning(f"⚠️ No data for {symbol}")
                         continue
                     
+                    bars = barset[symbol]
                     
                     # FIX: Check if we have enough data
                     if len(bars) < 5:

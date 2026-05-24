@@ -12,7 +12,7 @@ Server: maxhive.cloud | Dashboard: http://maxhive.cloud:8080/etbot
 
 import time, threading, traceback
 from datetime import datetime
-from config import (
+from etbot_config import (
     TELEGRAM_CHAT_ID, ALL_SYMBOLS,
     SCAN_INTERVAL_MINUTES, EXIT_CHECK_SECONDS,
     NEWS_REPORT_HOURS, DAY_END_HOUR

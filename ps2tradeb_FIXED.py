@@ -33,7 +33,7 @@ BINANCE_API_KEY = os.getenv('BINANCE_API_KEY')
 BINANCE_SECRET_KEY = os.getenv('BINANCE_SECRET_KEY')
 BINANCE_TESTNET = os.getenv('BINANCE_TESTNET', 'true').lower() == 'true'
 
-TELEGRAM_TOKEN = os.getenv('TELEGRAM_PS2TRADEB_TOKEN', '8628657751:AAHVZ7LitTCV0fdaVcSiRyp7huGymlmG7Zc')
+TELEGRAM_TOKEN = os.getenv('TELEGRAM_TOKEN')
 TELEGRAM_CHAT_ID = os.getenv('TELEGRAM_CHAT_ID')
 TELEGRAM_URL = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
 
@@ -162,12 +162,9 @@ class PS2TradeB:
                 'X-MBX-APIKEY': self.api_key
             }
             
-            timestamp = int(time.time() * 1000)
-            query_string = f"timestamp={timestamp}"
-            signature = __import__("hmac").new(self.secret_key.encode(), query_string.encode(), __import__("hashlib").sha256).hexdigest()
             url = f"{BINANCE_BASE_URL}/v3/account"
             
-            response = requests.get(url, headers=headers, params={"timestamp": timestamp, "signature": signature}, timeout=10)
+            response = requests.get(url, headers=headers, timeout=10)
             
             if response.status_code == 401:
                 logger.error("❌ PS2TRADEB: Unauthorized - Invalid API Key or Secret")

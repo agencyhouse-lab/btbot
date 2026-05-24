@@ -1,0 +1,11 @@
+#!/bin/bash
+echo ""; echo "📊 BOT STATUS - $(date '+%H:%M:%S')"; echo ""
+echo -n "Dashboard:    "; pgrep -f "realtime_dashboard" > /dev/null && echo "🟢 ONLINE" || echo "🔴 OFFLINE"
+echo -n "Reporter:     "; pgrep -f "hourly_telegram_reporter" > /dev/null && echo "🟢 ONLINE" || echo "🔴 OFFLINE"
+echo -n "PS2TRADEB:    "; pgrep -f "ps2tradeb_v6" > /dev/null && echo "🟢 ONLINE" || echo "🔴 OFFLINE"
+echo -n "BTBOT:        "; pgrep -f "btbot_v6" > /dev/null && echo "🟢 ONLINE" || echo "🔴 OFFLINE"
+echo -n "ETBOT:        "; pgrep -f "etbot_v6" > /dev/null && echo "🟢 ONLINE" || echo "🔴 OFFLINE"
+echo -n "ATBOT:        "; pgrep -f "atbot_v6" > /dev/null && echo "🟢 ONLINE" || echo "🔴 OFFLINE"
+echo ""
+ps aux | grep -E "v6_final|hourly_telegram_reporter|realtime_dashboard" | grep -v grep | wc -l | xargs echo "Total processes:"
+echo ""

@@ -49,3 +49,129 @@ python3: can't open file '/root/btbot/telegram_monitor_bot.py': [Errno 2] No suc
 2026-05-24 06:50:28,597 - INFO - ✅ Telegram sent: 83 chars
 2026-05-24 06:50:28,597 - WARNING - ⚠️ ps2tradeb is offline!
 2026-05-24 06:50:28,597 - WARNING - ⚠️ ps2tradeb is offline!
+2026-05-24 07:20:29,859 - INFO - 🔍 Checking bot status...
+2026-05-24 07:20:29,859 - INFO - 🔍 Checking bot status...
+2026-05-24 07:20:30,601 - INFO - ✅ Telegram sent: 77 chars
+2026-05-24 07:20:30,601 - INFO - ✅ Telegram sent: 77 chars
+2026-05-24 07:20:30,601 - WARNING - ⚠️ atbot is offline!
+2026-05-24 07:20:30,601 - WARNING - ⚠️ atbot is offline!
+2026-05-24 07:20:31,328 - INFO - ✅ Telegram sent: 83 chars
+2026-05-24 07:20:31,328 - INFO - ✅ Telegram sent: 83 chars
+2026-05-24 07:20:31,328 - WARNING - ⚠️ ps2tradeb is offline!
+2026-05-24 07:20:31,328 - WARNING - ⚠️ ps2tradeb is offline!
+2026-05-24 07:20:31,328 - INFO - 📊 Status check:
+2026-05-24 07:20:31,328 - INFO - 📊 Status check:
+2026-05-24 07:20:31,335 - INFO -    🟠 ATBOT (Alpaca Live): ❌ OFFLINE
+2026-05-24 07:20:31,335 - INFO -    🟠 ATBOT (Alpaca Live): ❌ OFFLINE
+2026-05-24 07:20:31,341 - INFO -    🟡 PS2TRADEB (Binance Paper): ❌ OFFLINE
+2026-05-24 07:20:31,341 - INFO -    🟡 PS2TRADEB (Binance Paper): ❌ OFFLINE
+2026-05-24 07:50:32,618 - INFO - 🔍 Checking bot status...
+2026-05-24 07:50:32,618 - INFO - 🔍 Checking bot status...
+2026-05-24 07:50:33,350 - INFO - ✅ Telegram sent: 77 chars
+2026-05-24 07:50:33,350 - INFO - ✅ Telegram sent: 77 chars
+2026-05-24 07:50:33,350 - WARNING - ⚠️ atbot is offline!
+2026-05-24 07:50:33,350 - WARNING - ⚠️ atbot is offline!
+2026-05-24 07:50:34,094 - INFO - ✅ Telegram sent: 83 chars
+2026-05-24 07:50:34,094 - INFO - ✅ Telegram sent: 83 chars
+2026-05-24 07:50:34,094 - WARNING - ⚠️ ps2tradeb is offline!
+2026-05-24 07:50:34,094 - WARNING - ⚠️ ps2tradeb is offline!
+2026-05-24 08:00:34,563 - INFO - 📊 Sending daily report...
+2026-05-24 08:00:34,563 - INFO - 📊 Sending daily report...
+2026-05-24 08:00:34,563 - INFO - 📊 Generating status report...
+2026-05-24 08:00:34,563 - INFO - 📊 Generating status report...
+2026-05-24 08:00:35,314 - INFO - ✅ Telegram sent: 333 chars
+2026-05-24 08:00:35,314 - INFO - ✅ Telegram sent: 333 chars
+2026-05-24 08:20:36,131 - INFO - 🔍 Checking bot status...
+2026-05-24 08:20:36,131 - INFO - 🔍 Checking bot status...
+2026-05-24 08:20:36,865 - INFO - ✅ Telegram sent: 77 chars
+2026-05-24 08:20:36,865 - INFO - ✅ Telegram sent: 77 chars
+2026-05-24 08:20:36,865 - WARNING - ⚠️ atbot is offline!
+2026-05-24 08:20:36,865 - WARNING - ⚠️ atbot is offline!
+2026-05-24 08:20:37,593 - INFO - ✅ Telegram sent: 83 chars
+2026-05-24 08:20:37,593 - INFO - ✅ Telegram sent: 83 chars
+2026-05-24 08:20:37,593 - WARNING - ⚠️ ps2tradeb is offline!
+2026-05-24 08:20:37,593 - WARNING - ⚠️ ps2tradeb is offline!
+2026-05-24 08:20:37,593 - INFO - 📊 Status check:
+2026-05-24 08:20:37,593 - INFO - 📊 Status check:
+2026-05-24 08:20:37,599 - INFO -    🟠 ATBOT (Alpaca Live): ❌ OFFLINE
+2026-05-24 08:20:37,599 - INFO -    🟠 ATBOT (Alpaca Live): ❌ OFFLINE
+2026-05-24 08:20:37,605 - INFO -    🟡 PS2TRADEB (Binance Paper): ❌ OFFLINE
+2026-05-24 08:20:37,605 - INFO -    🟡 PS2TRADEB (Binance Paper): ❌ OFFLINE
+2026-05-24 08:50:38,969 - INFO - 🔍 Checking bot status...
+2026-05-24 08:50:38,969 - INFO - 🔍 Checking bot status...
+2026-05-24 08:50:39,704 - INFO - ✅ Telegram sent: 77 chars
+2026-05-24 08:50:39,704 - INFO - ✅ Telegram sent: 77 chars
+2026-05-24 08:50:39,704 - WARNING - ⚠️ atbot is offline!
+2026-05-24 08:50:39,704 - WARNING - ⚠️ atbot is offline!
+2026-05-24 08:50:40,428 - INFO - ✅ Telegram sent: 83 chars
+2026-05-24 08:50:40,428 - INFO - ✅ Telegram sent: 83 chars
+2026-05-24 08:50:40,428 - WARNING - ⚠️ ps2tradeb is offline!
+2026-05-24 08:50:40,428 - WARNING - ⚠️ ps2tradeb is offline!
+2026-05-24 09:20:41,800 - INFO - 🔍 Checking bot status...
+2026-05-24 09:20:41,800 - INFO - 🔍 Checking bot status...
+2026-05-24 09:20:42,542 - INFO - ✅ Telegram sent: 77 chars
+2026-05-24 09:20:42,542 - INFO - ✅ Telegram sent: 77 chars
+2026-05-24 09:20:42,542 - WARNING - ⚠️ atbot is offline!
+2026-05-24 09:20:42,542 - WARNING - ⚠️ atbot is offline!
+2026-05-24 09:20:43,299 - INFO - ✅ Telegram sent: 83 chars
+2026-05-24 09:20:43,299 - INFO - ✅ Telegram sent: 83 chars
+2026-05-24 09:20:43,299 - WARNING - ⚠️ ps2tradeb is offline!
+2026-05-24 09:20:43,299 - WARNING - ⚠️ ps2tradeb is offline!
+2026-05-24 09:20:43,300 - INFO - 📊 Status check:
+2026-05-24 09:20:43,300 - INFO - 📊 Status check:
+2026-05-24 09:20:43,307 - INFO -    🟠 ATBOT (Alpaca Live): ❌ OFFLINE
+2026-05-24 09:20:43,307 - INFO -    🟠 ATBOT (Alpaca Live): ❌ OFFLINE
+2026-05-24 09:20:43,314 - INFO -    🟡 PS2TRADEB (Binance Paper): ❌ OFFLINE
+2026-05-24 09:20:43,314 - INFO -    🟡 PS2TRADEB (Binance Paper): ❌ OFFLINE
+2026-05-24 09:50:44,469 - INFO - 🔍 Checking bot status...
+2026-05-24 09:50:44,469 - INFO - 🔍 Checking bot status...
+2026-05-24 09:50:45,216 - INFO - ✅ Telegram sent: 77 chars
+2026-05-24 09:50:45,216 - INFO - ✅ Telegram sent: 77 chars
+2026-05-24 09:50:45,216 - WARNING - ⚠️ atbot is offline!
+2026-05-24 09:50:45,216 - WARNING - ⚠️ atbot is offline!
+2026-05-24 09:50:45,949 - INFO - ✅ Telegram sent: 83 chars
+2026-05-24 09:50:45,949 - INFO - ✅ Telegram sent: 83 chars
+2026-05-24 09:50:45,949 - WARNING - ⚠️ ps2tradeb is offline!
+2026-05-24 09:50:45,949 - WARNING - ⚠️ ps2tradeb is offline!
+2026-05-24 10:20:47,107 - INFO - 🔍 Checking bot status...
+2026-05-24 10:20:47,107 - INFO - 🔍 Checking bot status...
+2026-05-24 10:20:47,863 - INFO - ✅ Telegram sent: 77 chars
+2026-05-24 10:20:47,863 - INFO - ✅ Telegram sent: 77 chars
+2026-05-24 10:20:47,863 - WARNING - ⚠️ atbot is offline!
+2026-05-24 10:20:47,863 - WARNING - ⚠️ atbot is offline!
+2026-05-24 10:20:48,598 - INFO - ✅ Telegram sent: 83 chars
+2026-05-24 10:20:48,598 - INFO - ✅ Telegram sent: 83 chars
+2026-05-24 10:20:48,598 - WARNING - ⚠️ ps2tradeb is offline!
+2026-05-24 10:20:48,598 - WARNING - ⚠️ ps2tradeb is offline!
+2026-05-24 10:20:48,599 - INFO - 📊 Status check:
+2026-05-24 10:20:48,599 - INFO - 📊 Status check:
+2026-05-24 10:20:48,604 - INFO -    🟠 ATBOT (Alpaca Live): ❌ OFFLINE
+2026-05-24 10:20:48,604 - INFO -    🟠 ATBOT (Alpaca Live): ❌ OFFLINE
+2026-05-24 10:20:48,610 - INFO -    🟡 PS2TRADEB (Binance Paper): ❌ OFFLINE
+2026-05-24 10:20:48,610 - INFO -    🟡 PS2TRADEB (Binance Paper): ❌ OFFLINE
+2026-05-24 10:50:49,827 - INFO - 🔍 Checking bot status...
+2026-05-24 10:50:49,827 - INFO - 🔍 Checking bot status...
+2026-05-24 10:50:50,575 - INFO - ✅ Telegram sent: 77 chars
+2026-05-24 10:50:50,575 - INFO - ✅ Telegram sent: 77 chars
+2026-05-24 10:50:50,575 - WARNING - ⚠️ atbot is offline!
+2026-05-24 10:50:50,575 - WARNING - ⚠️ atbot is offline!
+2026-05-24 10:50:51,303 - INFO - ✅ Telegram sent: 83 chars
+2026-05-24 10:50:51,303 - INFO - ✅ Telegram sent: 83 chars
+2026-05-24 10:50:51,304 - WARNING - ⚠️ ps2tradeb is offline!
+2026-05-24 10:50:51,304 - WARNING - ⚠️ ps2tradeb is offline!
+2026-05-24 11:20:52,493 - INFO - 🔍 Checking bot status...
+2026-05-24 11:20:52,493 - INFO - 🔍 Checking bot status...
+2026-05-24 11:20:53,223 - INFO - ✅ Telegram sent: 77 chars
+2026-05-24 11:20:53,223 - INFO - ✅ Telegram sent: 77 chars
+2026-05-24 11:20:53,223 - WARNING - ⚠️ atbot is offline!
+2026-05-24 11:20:53,223 - WARNING - ⚠️ atbot is offline!
+2026-05-24 11:20:53,959 - INFO - ✅ Telegram sent: 83 chars
+2026-05-24 11:20:53,959 - INFO - ✅ Telegram sent: 83 chars
+2026-05-24 11:20:53,959 - WARNING - ⚠️ ps2tradeb is offline!
+2026-05-24 11:20:53,959 - WARNING - ⚠️ ps2tradeb is offline!
+2026-05-24 11:20:53,959 - INFO - 📊 Status check:
+2026-05-24 11:20:53,959 - INFO - 📊 Status check:
+2026-05-24 11:20:53,965 - INFO -    🟠 ATBOT (Alpaca Live): ❌ OFFLINE
+2026-05-24 11:20:53,965 - INFO -    🟠 ATBOT (Alpaca Live): ❌ OFFLINE
+2026-05-24 11:20:53,971 - INFO -    🟡 PS2TRADEB (Binance Paper): ❌ OFFLINE
+2026-05-24 11:20:53,971 - INFO -    🟡 PS2TRADEB (Binance Paper): ❌ OFFLINE

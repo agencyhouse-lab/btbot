@@ -164,11 +164,13 @@ class ATBot:
             for symbol in TRADING_SYMBOLS:
                 try:
                     # Get barset data
-                    bars = self.api.get_bars(symbol, '1Min', limit=20)
-                    if bars is None or len(bars) == 0:
+                    barset = self.api.get_barset(symbol, 'minute', limit=20)
+                    
+                    if symbol not in barset:
                         logger.warning(f"⚠️ No data for {symbol}")
                         continue
                     
+                    bars = barset[symbol]
                     
                     # FIX: Check if we have enough data
                     if len(bars) < 5:

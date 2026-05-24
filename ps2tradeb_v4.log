@@ -240,3 +240,55 @@ python3: can't open file '/root/btbot/ps2tradeb_v4.py': [Errno 2] No such file o
 2026-05-24 06:55:28,637 - ERROR - Signal error for ADAUSDT: name 'get_rsi' is not defined
 2026-05-24 06:55:28,858 - ERROR - Signal error for XRPUSDT: name 'get_rsi' is not defined
 2026-05-24 06:55:28,858 - ERROR - Signal error for XRPUSDT: name 'get_rsi' is not defined
+2026-05-24 06:56:28,976 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:56:28,976 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:56:28,976 - INFO - ⏱️ PS2TRADEB cycle 2: checking 5 pairs
+2026-05-24 06:56:28,976 - INFO - ⏱️ PS2TRADEB cycle 2: checking 5 pairs
+2026-05-24 06:56:29,338 - ERROR - Signal error for BTCUSDT: name 'get_rsi' is not defined
+2026-05-24 06:56:29,338 - ERROR - Signal error for BTCUSDT: name 'get_rsi' is not defined
+2026-05-24 06:56:29,585 - ERROR - Signal error for ETHUSDT: name 'get_rsi' is not defined
+2026-05-24 06:56:29,585 - ERROR - Signal error for ETHUSDT: name 'get_rsi' is not defined
+2026-05-24 06:56:29,810 - ERROR - Signal error for BNBUSDT: name 'get_rsi' is not defined
+2026-05-24 06:56:29,810 - ERROR - Signal error for BNBUSDT: name 'get_rsi' is not defined
+2026-05-24 06:56:30,027 - ERROR - Signal error for ADAUSDT: name 'get_rsi' is not defined
+2026-05-24 06:56:30,027 - ERROR - Signal error for ADAUSDT: name 'get_rsi' is not defined
+2026-05-24 06:56:30,241 - ERROR - Signal error for XRPUSDT: name 'get_rsi' is not defined
+2026-05-24 06:56:30,241 - ERROR - Signal error for XRPUSDT: name 'get_rsi' is not defined
+2026-05-24 06:57:30,354 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:57:30,354 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:57:30,354 - INFO - ⏱️ PS2TRADEB cycle 3: checking 5 pairs
+2026-05-24 06:57:30,354 - INFO - ⏱️ PS2TRADEB cycle 3: checking 5 pairs
+2026-05-24 06:57:30,564 - ERROR - Signal error for BTCUSDT: name 'get_rsi' is not defined
+2026-05-24 06:57:30,564 - ERROR - Signal error for BTCUSDT: name 'get_rsi' is not defined
+2026-05-24 06:57:30,782 - ERROR - Signal error for ETHUSDT: name 'get_rsi' is not defined
+2026-05-24 06:57:30,782 - ERROR - Signal error for ETHUSDT: name 'get_rsi' is not defined
+2026-05-24 06:57:30,997 - ERROR - Signal error for BNBUSDT: name 'get_rsi' is not defined
+2026-05-24 06:57:30,997 - ERROR - Signal error for BNBUSDT: name 'get_rsi' is not defined
+2026-05-24 06:57:31,211 - ERROR - Signal error for ADAUSDT: name 'get_rsi' is not defined
+2026-05-24 06:57:31,211 - ERROR - Signal error for ADAUSDT: name 'get_rsi' is not defined
+2026-05-24 06:57:31,423 - ERROR - Signal error for XRPUSDT: name 'get_rsi' is not defined
+2026-05-24 06:57:31,423 - ERROR - Signal error for XRPUSDT: name 'get_rsi' is not defined
+2026-05-24 06:57:41,174 - INFO - 🚀 PS2TRADEB v4.0 - SIMPLIFIED REST API
+2026-05-24 06:57:41,174 - INFO - 🚀 PS2TRADEB v4.0 - SIMPLIFIED REST API
+2026-05-24 06:57:41,174 - INFO - 🔗 Mode: LIVE
+2026-05-24 06:57:41,174 - INFO - 🔗 Mode: LIVE
+2026-05-24 06:57:41,307 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:57:41,307 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:57:41,307 - INFO - ⏱️ PS2TRADEB cycle 1: checking 5 pairs
+2026-05-24 06:57:41,307 - INFO - ⏱️ PS2TRADEB cycle 1: checking 5 pairs
+2026-05-24 06:58:43,103 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:58:43,103 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:58:43,103 - INFO - ⏱️ PS2TRADEB cycle 2: checking 5 pairs
+2026-05-24 06:58:43,103 - INFO - ⏱️ PS2TRADEB cycle 2: checking 5 pairs
+2026-05-24 06:59:44,938 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:59:44,938 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:59:44,938 - INFO - ⏱️ PS2TRADEB cycle 3: checking 5 pairs
+2026-05-24 06:59:44,938 - INFO - ⏱️ PS2TRADEB cycle 3: checking 5 pairs
+2026-05-24 07:00:46,893 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 07:00:46,893 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 07:00:46,893 - INFO - ⏱️ PS2TRADEB cycle 4: checking 5 pairs
+2026-05-24 07:00:46,893 - INFO - ⏱️ PS2TRADEB cycle 4: checking 5 pairs
+2026-05-24 07:01:48,669 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 07:01:48,669 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 07:01:48,670 - INFO - ⏱️ PS2TRADEB cycle 5: checking 5 pairs
+2026-05-24 07:01:48,670 - INFO - ⏱️ PS2TRADEB cycle 5: checking 5 pairs

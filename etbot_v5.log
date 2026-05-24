@@ -1,0 +1,56 @@
+2026-05-24 07:02:42,789 - INFO - 🚀 ETBOT v5.0 - WITH RISK MANAGEMENT
+2026-05-24 07:02:42,789 - INFO - 🚀 ETBOT v5.0 - WITH RISK MANAGEMENT
+2026-05-24 07:02:42,789 - INFO - 🔗 Mode: Watch | Risk: 0.3% per trade | Max Loss: 2% daily
+2026-05-24 07:02:42,789 - INFO - 🔗 Mode: Watch | Risk: 0.3% per trade | Max Loss: 2% daily
+2026-05-24 07:02:42,789 - INFO - ⏱️ ETBOT cycle 1: checking crypto
+2026-05-24 07:02:42,789 - INFO - ⏱️ ETBOT cycle 1: checking crypto
+2026-05-24 07:02:43,126 - ERROR - Loop error: 'NoneType' object has no attribute 'get'
+2026-05-24 07:02:43,126 - ERROR - Loop error: 'NoneType' object has no attribute 'get'
+2026-05-24 07:03:43,185 - INFO - ⏱️ ETBOT cycle 2: checking crypto
+2026-05-24 07:03:43,185 - INFO - ⏱️ ETBOT cycle 2: checking crypto
+2026-05-24 07:03:43,482 - ERROR - Loop error: 'NoneType' object has no attribute 'get'
+2026-05-24 07:03:43,482 - ERROR - Loop error: 'NoneType' object has no attribute 'get'
+2026-05-24 07:04:43,486 - INFO - ⏱️ ETBOT cycle 3: checking crypto
+2026-05-24 07:04:43,486 - INFO - ⏱️ ETBOT cycle 3: checking crypto
+2026-05-24 07:04:43,777 - ERROR - Loop error: 'NoneType' object has no attribute 'get'
+2026-05-24 07:04:43,777 - ERROR - Loop error: 'NoneType' object has no attribute 'get'
+2026-05-24 07:05:43,811 - INFO - ⏱️ ETBOT cycle 4: checking crypto
+2026-05-24 07:05:43,811 - INFO - ⏱️ ETBOT cycle 4: checking crypto
+2026-05-24 07:05:44,099 - ERROR - Loop error: 'NoneType' object has no attribute 'get'
+2026-05-24 07:05:44,099 - ERROR - Loop error: 'NoneType' object has no attribute 'get'
+2026-05-24 07:06:44,148 - INFO - ⏱️ ETBOT cycle 5: checking crypto
+2026-05-24 07:06:44,148 - INFO - ⏱️ ETBOT cycle 5: checking crypto
+2026-05-24 07:06:44,440 - ERROR - Loop error: 'NoneType' object has no attribute 'get'
+2026-05-24 07:06:44,440 - ERROR - Loop error: 'NoneType' object has no attribute 'get'
+2026-05-24 07:07:44,483 - INFO - ⏱️ ETBOT cycle 6: checking crypto
+2026-05-24 07:07:44,483 - INFO - ⏱️ ETBOT cycle 6: checking crypto
+2026-05-24 07:07:44,785 - ERROR - Loop error: 'NoneType' object has no attribute 'get'
+2026-05-24 07:07:44,785 - ERROR - Loop error: 'NoneType' object has no attribute 'get'
+2026-05-24 07:08:44,812 - INFO - ⏱️ ETBOT cycle 7: checking crypto
+2026-05-24 07:08:44,812 - INFO - ⏱️ ETBOT cycle 7: checking crypto
+2026-05-24 07:08:45,105 - ERROR - Loop error: 'NoneType' object has no attribute 'get'
+2026-05-24 07:08:45,105 - ERROR - Loop error: 'NoneType' object has no attribute 'get'
+2026-05-24 07:09:45,155 - INFO - ⏱️ ETBOT cycle 8: checking crypto
+2026-05-24 07:09:45,155 - INFO - ⏱️ ETBOT cycle 8: checking crypto
+2026-05-24 07:09:45,470 - ERROR - Loop error: 'NoneType' object has no attribute 'get'
+2026-05-24 07:09:45,470 - ERROR - Loop error: 'NoneType' object has no attribute 'get'
+2026-05-24 07:10:00,585 - INFO - 🚀 ETBOT v5.0 - WITH RISK MANAGEMENT
+2026-05-24 07:10:00,585 - INFO - 🚀 ETBOT v5.0 - WITH RISK MANAGEMENT
+2026-05-24 07:10:00,585 - INFO - 🔗 Mode: Watch | Risk: 0.3% per trade | Max Loss: 2% daily
+2026-05-24 07:10:00,585 - INFO - 🔗 Mode: Watch | Risk: 0.3% per trade | Max Loss: 2% daily
+2026-05-24 07:10:00,585 - INFO - ⏱️ ETBOT cycle 1: checking crypto
+2026-05-24 07:10:00,585 - INFO - ⏱️ ETBOT cycle 1: checking crypto
+2026-05-24 07:11:00,912 - INFO - ⏱️ ETBOT cycle 2: checking crypto
+2026-05-24 07:11:00,912 - INFO - ⏱️ ETBOT cycle 2: checking crypto
+2026-05-24 07:12:01,198 - INFO - ⏱️ ETBOT cycle 3: checking crypto
+2026-05-24 07:12:01,198 - INFO - ⏱️ ETBOT cycle 3: checking crypto
+2026-05-24 07:13:01,523 - INFO - ⏱️ ETBOT cycle 4: checking crypto
+2026-05-24 07:13:01,523 - INFO - ⏱️ ETBOT cycle 4: checking crypto
+2026-05-24 07:14:01,832 - INFO - ⏱️ ETBOT cycle 5: checking crypto
+2026-05-24 07:14:01,832 - INFO - ⏱️ ETBOT cycle 5: checking crypto
+2026-05-24 07:15:02,147 - INFO - ⏱️ ETBOT cycle 6: checking crypto
+2026-05-24 07:15:02,147 - INFO - ⏱️ ETBOT cycle 6: checking crypto
+2026-05-24 07:16:02,489 - INFO - ⏱️ ETBOT cycle 7: checking crypto
+2026-05-24 07:16:02,489 - INFO - ⏱️ ETBOT cycle 7: checking crypto
+2026-05-24 07:17:02,787 - INFO - ⏱️ ETBOT cycle 8: checking crypto
+2026-05-24 07:17:02,787 - INFO - ⏱️ ETBOT cycle 8: checking crypto
