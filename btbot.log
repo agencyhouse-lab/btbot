@@ -2,3 +2,14 @@ Traceback (most recent call last):
   File "/root/btbot/btbot.py", line 5, in <module>
     from bot_engine import BotEngine
 ModuleNotFoundError: No module named 'bot_engine'
+Traceback (most recent call last):
+  File "/root/btbot/btbot.py", line 5, in <module>
+    from bot_engine import BotEngine
+ModuleNotFoundError: No module named 'bot_engine'
+[2026-05-24 05:51:35] [INFO] ==================================================
+[2026-05-24 05:51:35] [INFO]   btbot v2.1 — LIVE Binance Trading Bot
+[2026-05-24 05:51:35] [INFO] ==================================================
+[2026-05-24 05:51:35] [INFO] [btbot] v2.1.0 | mode=PAPER 📄
+[2026-05-24 05:51:35] [INFO] [STATE] Fresh start.
+[2026-05-24 05:51:35] [ERROR] [BINANCE] Connect failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+[2026-05-24 05:51:35] [ERROR] Cannot connect — aborting.

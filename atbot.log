@@ -2066,3 +2066,1122 @@ python-dotenv could not parse statement starting at line 1
 2026-05-24 05:50:08,313 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
 2026-05-24 05:50:08,313 - INFO - ⏱️ ATBOT cycle 58: checking 9 symbols
 2026-05-24 05:50:08,313 - INFO - ⏱️ ATBOT cycle 58: checking 9 symbols
+2026-05-24 05:50:38,578 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:50:38,578 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:50:38,579 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:50:38,579 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:50:38,579 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:50:38,579 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:50:38,579 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:50:38,579 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:50:38,579 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:50:38,579 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:50:38,579 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:50:38,579 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:50:38,579 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:50:38,579 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:50:38,579 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:50:38,579 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:50:38,579 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:50:38,579 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:50:38,579 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:50:38,579 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:51:08,849 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:51:08,849 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:51:08,849 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:51:08,849 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:51:08,849 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:51:08,849 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:51:08,849 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:51:08,849 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:51:08,849 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:51:08,849 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:51:08,849 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:51:08,849 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:51:08,849 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:51:08,849 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:51:08,849 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:51:08,849 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:51:08,849 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:51:08,849 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:51:08,849 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:51:08,849 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:51:08,849 - INFO - ⏱️ ATBOT cycle 60: checking 9 symbols
+2026-05-24 05:51:08,849 - INFO - ⏱️ ATBOT cycle 60: checking 9 symbols
+2026-05-24 05:51:39,119 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:51:39,119 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:51:39,119 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:51:39,119 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:51:39,119 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:51:39,119 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:51:39,119 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:51:39,119 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:51:39,120 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:51:39,120 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:51:39,120 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:51:39,120 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:51:39,120 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:51:39,120 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:51:39,120 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:51:39,120 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:51:39,120 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:51:39,120 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:51:39,120 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:51:39,120 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:52:09,391 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:52:09,391 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:52:09,391 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:52:09,391 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:52:09,391 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:52:09,391 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:52:09,391 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:52:09,391 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:52:09,391 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:52:09,391 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:52:09,391 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:52:09,391 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:52:09,391 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:52:09,391 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:52:09,391 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:52:09,391 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:52:09,391 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:52:09,391 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:52:09,391 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:52:09,391 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:52:09,391 - INFO - ⏱️ ATBOT cycle 62: checking 9 symbols
+2026-05-24 05:52:09,391 - INFO - ⏱️ ATBOT cycle 62: checking 9 symbols
+2026-05-24 05:52:39,635 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:52:39,635 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:52:39,635 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:52:39,635 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:52:39,635 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:52:39,635 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:52:39,635 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:52:39,635 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:52:39,635 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:52:39,635 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:52:39,635 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:52:39,635 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:52:39,635 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:52:39,635 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:52:39,635 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:52:39,635 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:52:39,635 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:52:39,635 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:52:39,635 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:52:39,635 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:53:09,906 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:53:09,906 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:53:09,906 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:53:09,906 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:53:09,906 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:53:09,906 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:53:09,906 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:53:09,906 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:53:09,906 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:53:09,906 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:53:09,906 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:53:09,906 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:53:09,906 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:53:09,906 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:53:09,906 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:53:09,906 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:53:09,906 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:53:09,906 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:53:09,906 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:53:09,906 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:53:09,906 - INFO - ⏱️ ATBOT cycle 64: checking 9 symbols
+2026-05-24 05:53:09,906 - INFO - ⏱️ ATBOT cycle 64: checking 9 symbols
+2026-05-24 05:53:40,178 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:53:40,178 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:53:40,178 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:53:40,178 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:53:40,178 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:53:40,178 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:53:40,178 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:53:40,178 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:53:40,178 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:53:40,178 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:53:40,178 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:53:40,178 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:53:40,178 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:53:40,178 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:53:40,178 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:53:40,178 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:53:40,178 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:53:40,178 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:53:40,178 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:53:40,178 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:54:10,441 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:54:10,441 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:54:10,441 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:54:10,441 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:54:10,442 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:54:10,442 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:54:10,442 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:54:10,442 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:54:10,442 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:54:10,442 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:54:10,442 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:54:10,442 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:54:10,442 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:54:10,442 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:54:10,442 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:54:10,442 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:54:10,442 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:54:10,442 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:54:10,442 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:54:10,442 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:54:10,442 - INFO - ⏱️ ATBOT cycle 66: checking 9 symbols
+2026-05-24 05:54:10,442 - INFO - ⏱️ ATBOT cycle 66: checking 9 symbols
+2026-05-24 05:54:40,713 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:54:40,713 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:54:40,713 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:54:40,713 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:54:40,713 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:54:40,713 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:54:40,713 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:54:40,713 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:54:40,713 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:54:40,713 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:54:40,713 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:54:40,713 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:54:40,713 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:54:40,713 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:54:40,713 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:54:40,713 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:54:40,713 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:54:40,713 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:54:40,713 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:54:40,713 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:55:10,985 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:55:10,985 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:55:10,986 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:55:10,986 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:55:10,986 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:55:10,986 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:55:10,986 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:55:10,986 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:55:10,986 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:55:10,986 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:55:10,986 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:55:10,986 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:55:10,986 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:55:10,986 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:55:10,986 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:55:10,986 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:55:10,986 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:55:10,986 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:55:10,986 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:55:10,986 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:55:10,986 - INFO - ⏱️ ATBOT cycle 68: checking 9 symbols
+2026-05-24 05:55:10,986 - INFO - ⏱️ ATBOT cycle 68: checking 9 symbols
+2026-05-24 05:55:41,236 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:55:41,236 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:55:41,236 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:55:41,236 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:55:41,236 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:55:41,236 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:55:41,236 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:55:41,236 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:55:41,236 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:55:41,236 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:55:41,236 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:55:41,236 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:55:41,237 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:55:41,237 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:55:41,237 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:55:41,237 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:55:41,237 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:55:41,237 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:55:41,237 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:55:41,237 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:56:11,499 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:56:11,499 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:56:11,499 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:56:11,499 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:56:11,499 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:56:11,499 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:56:11,499 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:56:11,499 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:56:11,499 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:56:11,499 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:56:11,499 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:56:11,499 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:56:11,499 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:56:11,499 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:56:11,499 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:56:11,499 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:56:11,499 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:56:11,499 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:56:11,499 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:56:11,499 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:56:11,499 - INFO - ⏱️ ATBOT cycle 70: checking 9 symbols
+2026-05-24 05:56:11,499 - INFO - ⏱️ ATBOT cycle 70: checking 9 symbols
+2026-05-24 05:56:41,770 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:56:41,770 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:56:41,770 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:56:41,770 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:56:41,770 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:56:41,770 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:56:41,770 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:56:41,770 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:56:41,770 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:56:41,770 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:56:41,770 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:56:41,770 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:56:41,770 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:56:41,770 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:56:41,770 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:56:41,770 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:56:41,770 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:56:41,770 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:56:41,770 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:56:41,770 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:57:12,019 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:57:12,019 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:57:12,019 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:57:12,019 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:57:12,019 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:57:12,019 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:57:12,019 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:57:12,019 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:57:12,019 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:57:12,019 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:57:12,019 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:57:12,019 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:57:12,019 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:57:12,019 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:57:12,019 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:57:12,019 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:57:12,019 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:57:12,019 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:57:12,019 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:57:12,019 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:57:12,019 - INFO - ⏱️ ATBOT cycle 72: checking 9 symbols
+2026-05-24 05:57:12,019 - INFO - ⏱️ ATBOT cycle 72: checking 9 symbols
+2026-05-24 05:57:42,290 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:57:42,290 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:57:42,290 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:57:42,290 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:57:42,290 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:57:42,290 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:57:42,290 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:57:42,290 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:57:42,290 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:57:42,290 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:57:42,290 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:57:42,290 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:57:42,290 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:57:42,290 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:57:42,290 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:57:42,290 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:57:42,290 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:57:42,290 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:57:42,290 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:57:42,290 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:58:12,560 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:58:12,560 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:58:12,560 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:58:12,560 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:58:12,560 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:58:12,560 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:58:12,560 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:58:12,560 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:58:12,560 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:58:12,560 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:58:12,560 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:58:12,560 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:58:12,560 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:58:12,560 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:58:12,560 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:58:12,560 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:58:12,560 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:58:12,560 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:58:12,560 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:58:12,560 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:58:12,560 - INFO - ⏱️ ATBOT cycle 74: checking 9 symbols
+2026-05-24 05:58:12,560 - INFO - ⏱️ ATBOT cycle 74: checking 9 symbols
+2026-05-24 05:58:42,830 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:58:42,830 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:58:42,830 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:58:42,830 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:58:42,830 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:58:42,830 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:58:42,830 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:58:42,830 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:58:42,831 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:58:42,831 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:58:42,831 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:58:42,831 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:58:42,831 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:58:42,831 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:58:42,831 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:58:42,831 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:58:42,831 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:58:42,831 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:58:42,831 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:58:42,831 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:59:13,077 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:59:13,077 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:59:13,077 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:59:13,077 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:59:13,077 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:59:13,077 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:59:13,077 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:59:13,077 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:59:13,077 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:59:13,077 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:59:13,077 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:59:13,077 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:59:13,077 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:59:13,077 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:59:13,077 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:59:13,077 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:59:13,077 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:59:13,077 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:59:13,077 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:59:13,077 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:59:13,077 - INFO - ⏱️ ATBOT cycle 76: checking 9 symbols
+2026-05-24 05:59:13,077 - INFO - ⏱️ ATBOT cycle 76: checking 9 symbols
+2026-05-24 05:59:43,319 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:59:43,319 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 05:59:43,319 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:59:43,319 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:59:43,319 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:59:43,319 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:59:43,319 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:59:43,319 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:59:43,319 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:59:43,319 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:59:43,319 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:59:43,319 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:59:43,319 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:59:43,319 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:59:43,319 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:59:43,319 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:59:43,319 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:59:43,319 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:59:43,319 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 05:59:43,319 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:00:13,589 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:00:13,589 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:00:13,589 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:00:13,589 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:00:13,589 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:00:13,589 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:00:13,589 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:00:13,589 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:00:13,589 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:00:13,589 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:00:13,589 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:00:13,589 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:00:13,589 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:00:13,589 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:00:13,589 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:00:13,589 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:00:13,589 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:00:13,589 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:00:13,589 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:00:13,589 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:00:13,589 - INFO - ⏱️ ATBOT cycle 78: checking 9 symbols
+2026-05-24 06:00:13,589 - INFO - ⏱️ ATBOT cycle 78: checking 9 symbols
+2026-05-24 06:00:43,860 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:00:43,860 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:00:43,860 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:00:43,860 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:00:43,860 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:00:43,860 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:00:43,860 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:00:43,860 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:00:43,860 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:00:43,860 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:00:43,860 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:00:43,860 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:00:43,860 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:00:43,860 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:00:43,860 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:00:43,860 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:00:43,860 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:00:43,860 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:00:43,860 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:00:43,860 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:01:14,102 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:01:14,102 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:01:14,102 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:01:14,102 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:01:14,102 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:01:14,102 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:01:14,102 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:01:14,102 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:01:14,102 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:01:14,102 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:01:14,102 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:01:14,102 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:01:14,102 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:01:14,102 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:01:14,102 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:01:14,102 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:01:14,102 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:01:14,102 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:01:14,103 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:01:14,103 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:01:14,103 - INFO - ⏱️ ATBOT cycle 80: checking 9 symbols
+2026-05-24 06:01:14,103 - INFO - ⏱️ ATBOT cycle 80: checking 9 symbols
+2026-05-24 06:01:44,373 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:01:44,373 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:01:44,374 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:01:44,374 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:01:44,374 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:01:44,374 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:01:44,374 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:01:44,374 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:01:44,374 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:01:44,374 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:01:44,374 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:01:44,374 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:01:44,374 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:01:44,374 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:01:44,374 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:01:44,374 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:01:44,374 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:01:44,374 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:01:44,374 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:01:44,374 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:02:14,616 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:02:14,616 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:02:14,616 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:02:14,616 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:02:14,616 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:02:14,616 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:02:14,616 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:02:14,616 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:02:14,616 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:02:14,616 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:02:14,617 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:02:14,617 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:02:14,617 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:02:14,617 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:02:14,617 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:02:14,617 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:02:14,617 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:02:14,617 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:02:14,617 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:02:14,617 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:02:14,617 - INFO - ⏱️ ATBOT cycle 82: checking 9 symbols
+2026-05-24 06:02:14,617 - INFO - ⏱️ ATBOT cycle 82: checking 9 symbols
+2026-05-24 06:02:44,885 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:02:44,885 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:02:44,885 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:02:44,885 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:02:44,885 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:02:44,885 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:02:44,885 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:02:44,885 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:02:44,885 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:02:44,885 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:02:44,885 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:02:44,885 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:02:44,885 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:02:44,885 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:02:44,885 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:02:44,885 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:02:44,885 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:02:44,885 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:02:44,885 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:02:44,885 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:03:15,156 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:03:15,156 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:03:15,156 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:03:15,156 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:03:15,156 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:03:15,156 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:03:15,156 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:03:15,156 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:03:15,156 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:03:15,156 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:03:15,156 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:03:15,156 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:03:15,156 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:03:15,156 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:03:15,156 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:03:15,156 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:03:15,156 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:03:15,156 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:03:15,156 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:03:15,156 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:03:15,156 - INFO - ⏱️ ATBOT cycle 84: checking 9 symbols
+2026-05-24 06:03:15,156 - INFO - ⏱️ ATBOT cycle 84: checking 9 symbols
+2026-05-24 06:03:45,426 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:03:45,426 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:03:45,426 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:03:45,426 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:03:45,426 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:03:45,426 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:03:45,427 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:03:45,427 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:03:45,427 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:03:45,427 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:03:45,427 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:03:45,427 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:03:45,427 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:03:45,427 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:03:45,427 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:03:45,427 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:03:45,427 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:03:45,427 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:03:45,427 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:03:45,427 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:04:15,697 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:04:15,697 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:04:15,697 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:04:15,697 - WARNING - ⚠️ Signal error for SPY: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:04:15,697 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:04:15,697 - WARNING - ⚠️ Signal error for QQQ: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:04:15,697 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:04:15,697 - WARNING - ⚠️ Signal error for IWM: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:04:15,697 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:04:15,697 - WARNING - ⚠️ Signal error for DIA: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:04:15,697 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:04:15,697 - WARNING - ⚠️ Signal error for GLD: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:04:15,697 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:04:15,697 - WARNING - ⚠️ Signal error for SLV: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:04:15,697 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:04:15,697 - WARNING - ⚠️ Signal error for USO: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:04:15,697 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:04:15,697 - WARNING - ⚠️ Signal error for DBC: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:04:15,697 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:04:15,697 - WARNING - ⚠️ Signal error for DBA: 'REST' object has no attribute 'get_barset'
+2026-05-24 06:04:15,697 - INFO - ⏱️ ATBOT cycle 86: checking 9 symbols
+2026-05-24 06:04:15,697 - INFO - ⏱️ ATBOT cycle 86: checking 9 symbols
+  File "/root/btbot/atbot.py", line 169
+    continue
+IndentationError: unexpected indent
+2026-05-24 06:08:21,060 - INFO - ================================================================================
+2026-05-24 06:08:21,060 - INFO - ================================================================================
+2026-05-24 06:08:21,060 - INFO - 🚀 ATBOT v3.1 PRODUCTION - LIVE TRADING
+2026-05-24 06:08:21,060 - INFO - 🚀 ATBOT v3.1 PRODUCTION - LIVE TRADING
+2026-05-24 06:08:21,060 - INFO - ================================================================================
+2026-05-24 06:08:21,060 - INFO - ================================================================================
+2026-05-24 06:08:21,061 - ERROR - ❌ Load state error: 'trades'
+2026-05-24 06:08:21,061 - ERROR - ❌ Load state error: 'trades'
+2026-05-24 06:08:21,800 - INFO - ✅ ATBOT: Alpaca Live API connected
+2026-05-24 06:08:21,800 - INFO - ✅ ATBOT: Alpaca Live API connected
+2026-05-24 06:08:22,040 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:08:22,040 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:08:22,040 - INFO - ✅ ATBOT Connected: $248.91
+2026-05-24 06:08:22,040 - INFO - ✅ ATBOT Connected: $248.91
+2026-05-24 06:08:22,597 - INFO - ✉️ ATBOT Telegram sent
+2026-05-24 06:08:22,597 - INFO - ✉️ ATBOT Telegram sent
+2026-05-24 06:08:22,597 - INFO - 🚀 Starting trading loop...
+2026-05-24 06:08:22,597 - INFO - 🚀 Starting trading loop...
+2026-05-24 06:08:22,836 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:08:22,836 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:08:23,574 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:08:23,574 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:08:23,815 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:08:23,815 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:08:24,056 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:08:24,056 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:08:24,296 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:08:24,296 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:08:24,535 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:08:24,535 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:08:24,773 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:08:24,773 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:08:25,011 - WARNING - ⚠️ No data for USO
+2026-05-24 06:08:25,011 - WARNING - ⚠️ No data for USO
+2026-05-24 06:08:25,250 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:08:25,250 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:08:25,495 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:08:25,495 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:08:55,765 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:08:55,765 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:08:56,013 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:08:56,013 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:08:56,252 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:08:56,252 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:08:56,491 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:08:56,491 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:08:56,730 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:08:56,730 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:08:56,971 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:08:56,971 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:08:57,211 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:08:57,211 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:08:57,451 - WARNING - ⚠️ No data for USO
+2026-05-24 06:08:57,451 - WARNING - ⚠️ No data for USO
+2026-05-24 06:08:57,696 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:08:57,696 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:08:57,936 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:08:57,936 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:08:57,936 - INFO - ⏱️ ATBOT cycle 2: checking 9 symbols
+2026-05-24 06:08:57,936 - INFO - ⏱️ ATBOT cycle 2: checking 9 symbols
+2026-05-24 06:09:02,417 - INFO - ================================================================================
+2026-05-24 06:09:02,417 - INFO - ================================================================================
+2026-05-24 06:09:02,417 - INFO - 🚀 ATBOT v3.1 PRODUCTION - LIVE TRADING
+2026-05-24 06:09:02,417 - INFO - 🚀 ATBOT v3.1 PRODUCTION - LIVE TRADING
+2026-05-24 06:09:02,417 - INFO - ================================================================================
+2026-05-24 06:09:02,417 - INFO - ================================================================================
+2026-05-24 06:09:02,417 - ERROR - ❌ Load state error: 'trades'
+2026-05-24 06:09:02,417 - ERROR - ❌ Load state error: 'trades'
+2026-05-24 06:09:03,154 - INFO - ✅ ATBOT: Alpaca Live API connected
+2026-05-24 06:09:03,154 - INFO - ✅ ATBOT: Alpaca Live API connected
+2026-05-24 06:09:03,393 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:09:03,393 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:09:03,393 - INFO - ✅ ATBOT Connected: $248.91
+2026-05-24 06:09:03,393 - INFO - ✅ ATBOT Connected: $248.91
+2026-05-24 06:09:03,925 - INFO - ✉️ ATBOT Telegram sent
+2026-05-24 06:09:03,925 - INFO - ✉️ ATBOT Telegram sent
+2026-05-24 06:09:03,925 - INFO - 🚀 Starting trading loop...
+2026-05-24 06:09:03,925 - INFO - 🚀 Starting trading loop...
+2026-05-24 06:09:04,166 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:09:04,166 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:09:04,900 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:09:04,900 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:09:05,140 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:09:05,140 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:09:05,380 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:09:05,380 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:09:05,620 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:09:05,620 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:09:05,864 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:09:05,864 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:09:06,108 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:09:06,108 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:09:06,350 - WARNING - ⚠️ No data for USO
+2026-05-24 06:09:06,350 - WARNING - ⚠️ No data for USO
+2026-05-24 06:09:06,590 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:09:06,590 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:09:06,831 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:09:06,831 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:09:37,101 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:09:37,101 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:09:37,342 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:09:37,342 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:09:37,583 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:09:37,583 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:09:37,849 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:09:37,849 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:09:38,094 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:09:38,094 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:09:38,334 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:09:38,334 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:09:38,581 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:09:38,581 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:09:38,822 - WARNING - ⚠️ No data for USO
+2026-05-24 06:09:38,822 - WARNING - ⚠️ No data for USO
+2026-05-24 06:09:39,061 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:09:39,061 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:09:39,321 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:09:39,321 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:09:39,322 - INFO - ⏱️ ATBOT cycle 2: checking 9 symbols
+2026-05-24 06:09:39,322 - INFO - ⏱️ ATBOT cycle 2: checking 9 symbols
+2026-05-24 06:10:09,585 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:10:09,585 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:10:09,825 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:10:09,825 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:10:10,066 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:10:10,066 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:10:10,307 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:10:10,307 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:10:10,548 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:10:10,548 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:10:10,790 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:10:10,790 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:10:11,031 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:10:11,031 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:10:11,270 - WARNING - ⚠️ No data for USO
+2026-05-24 06:10:11,270 - WARNING - ⚠️ No data for USO
+2026-05-24 06:10:11,509 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:10:11,509 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:10:11,750 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:10:11,750 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:10:42,020 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:10:42,020 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:10:42,263 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:10:42,263 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:10:42,509 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:10:42,509 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:10:42,765 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:10:42,765 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:10:43,013 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:10:43,013 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:10:43,253 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:10:43,253 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:10:43,506 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:10:43,506 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:10:43,747 - WARNING - ⚠️ No data for USO
+2026-05-24 06:10:43,747 - WARNING - ⚠️ No data for USO
+2026-05-24 06:10:43,992 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:10:43,992 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:10:44,234 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:10:44,234 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:10:44,234 - INFO - ⏱️ ATBOT cycle 4: checking 9 symbols
+2026-05-24 06:10:44,234 - INFO - ⏱️ ATBOT cycle 4: checking 9 symbols
+2026-05-24 06:11:14,495 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:11:14,495 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:11:14,738 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:11:14,738 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:11:14,979 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:11:14,979 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:11:15,220 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:11:15,220 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:11:15,461 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:11:15,461 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:11:15,702 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:11:15,702 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:11:15,943 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:11:15,943 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:11:16,183 - WARNING - ⚠️ No data for USO
+2026-05-24 06:11:16,183 - WARNING - ⚠️ No data for USO
+2026-05-24 06:11:16,425 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:11:16,425 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:11:16,672 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:11:16,672 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:11:21,261 - INFO - ================================================================================
+2026-05-24 06:11:21,261 - INFO - ================================================================================
+2026-05-24 06:11:21,261 - INFO - 🚀 ATBOT v3.1 PRODUCTION - LIVE TRADING
+2026-05-24 06:11:21,261 - INFO - 🚀 ATBOT v3.1 PRODUCTION - LIVE TRADING
+2026-05-24 06:11:21,262 - INFO - ================================================================================
+2026-05-24 06:11:21,262 - INFO - ================================================================================
+2026-05-24 06:11:21,262 - ERROR - ❌ Load state error: 'trades'
+2026-05-24 06:11:21,262 - ERROR - ❌ Load state error: 'trades'
+2026-05-24 06:11:22,001 - INFO - ✅ ATBOT: Alpaca Live API connected
+2026-05-24 06:11:22,001 - INFO - ✅ ATBOT: Alpaca Live API connected
+2026-05-24 06:11:22,244 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:11:22,244 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:11:22,244 - INFO - ✅ ATBOT Connected: $248.91
+2026-05-24 06:11:22,244 - INFO - ✅ ATBOT Connected: $248.91
+2026-05-24 06:11:22,782 - INFO - ✉️ ATBOT Telegram sent
+2026-05-24 06:11:22,782 - INFO - ✉️ ATBOT Telegram sent
+2026-05-24 06:11:22,782 - INFO - 🚀 Starting trading loop...
+2026-05-24 06:11:22,782 - INFO - 🚀 Starting trading loop...
+2026-05-24 06:11:23,025 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:11:23,025 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:11:23,768 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:11:23,768 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:11:24,008 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:11:24,008 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:11:24,247 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:11:24,247 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:11:24,487 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:11:24,487 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:11:24,728 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:11:24,728 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:11:24,966 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:11:24,966 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:11:25,211 - WARNING - ⚠️ No data for USO
+2026-05-24 06:11:25,211 - WARNING - ⚠️ No data for USO
+2026-05-24 06:11:25,450 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:11:25,450 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:11:25,692 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:11:25,692 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:11:55,967 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:11:55,967 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:11:56,210 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:11:56,210 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:11:56,454 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:11:56,454 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:11:56,693 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:11:56,693 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:11:56,933 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:11:56,933 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:11:57,173 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:11:57,173 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:11:57,424 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:11:57,424 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:11:57,662 - WARNING - ⚠️ No data for USO
+2026-05-24 06:11:57,662 - WARNING - ⚠️ No data for USO
+2026-05-24 06:11:57,904 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:11:57,904 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:11:58,146 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:11:58,146 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:11:58,146 - INFO - ⏱️ ATBOT cycle 2: checking 9 symbols
+2026-05-24 06:11:58,146 - INFO - ⏱️ ATBOT cycle 2: checking 9 symbols
+2026-05-24 06:12:28,419 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:12:28,419 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:12:28,659 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:12:28,659 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:12:28,908 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:12:28,908 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:12:29,157 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:12:29,157 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:12:29,406 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:12:29,406 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:12:29,652 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:12:29,652 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:12:29,895 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:12:29,895 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:12:30,134 - WARNING - ⚠️ No data for USO
+2026-05-24 06:12:30,134 - WARNING - ⚠️ No data for USO
+2026-05-24 06:12:30,374 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:12:30,374 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:12:30,613 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:12:30,613 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:13:00,885 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:13:00,885 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:13:01,126 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:13:01,126 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:13:01,364 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:13:01,364 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:13:01,603 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:13:01,603 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:13:01,850 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:13:01,850 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:13:02,090 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:13:02,090 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:13:02,330 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:13:02,330 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:13:02,572 - WARNING - ⚠️ No data for USO
+2026-05-24 06:13:02,572 - WARNING - ⚠️ No data for USO
+2026-05-24 06:13:02,811 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:13:02,811 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:13:03,051 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:13:03,051 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:13:03,051 - INFO - ⏱️ ATBOT cycle 4: checking 9 symbols
+2026-05-24 06:13:03,051 - INFO - ⏱️ ATBOT cycle 4: checking 9 symbols
+2026-05-24 06:13:33,308 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:13:33,308 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:13:33,550 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:13:33,550 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:13:33,791 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:13:33,791 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:13:34,032 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:13:34,032 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:13:34,271 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:13:34,271 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:13:34,511 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:13:34,511 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:13:34,750 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:13:34,750 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:13:34,993 - WARNING - ⚠️ No data for USO
+2026-05-24 06:13:34,993 - WARNING - ⚠️ No data for USO
+2026-05-24 06:13:35,237 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:13:35,237 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:13:35,475 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:13:35,475 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:14:05,136 - INFO - ================================================================================
+2026-05-24 06:14:05,136 - INFO - ================================================================================
+2026-05-24 06:14:05,136 - INFO - 🚀 ATBOT v3.1 PRODUCTION - LIVE TRADING
+2026-05-24 06:14:05,136 - INFO - 🚀 ATBOT v3.1 PRODUCTION - LIVE TRADING
+2026-05-24 06:14:05,136 - INFO - ================================================================================
+2026-05-24 06:14:05,136 - INFO - ================================================================================
+2026-05-24 06:14:05,136 - ERROR - ❌ Load state error: 'trades'
+2026-05-24 06:14:05,136 - ERROR - ❌ Load state error: 'trades'
+2026-05-24 06:14:05,881 - INFO - ✅ ATBOT: Alpaca Live API connected
+2026-05-24 06:14:05,881 - INFO - ✅ ATBOT: Alpaca Live API connected
+2026-05-24 06:14:06,121 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:14:06,121 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:14:06,121 - INFO - ✅ ATBOT Connected: $248.91
+2026-05-24 06:14:06,121 - INFO - ✅ ATBOT Connected: $248.91
+2026-05-24 06:14:06,642 - INFO - ✉️ ATBOT Telegram sent
+2026-05-24 06:14:06,642 - INFO - ✉️ ATBOT Telegram sent
+2026-05-24 06:14:06,643 - INFO - 🚀 Starting trading loop...
+2026-05-24 06:14:06,643 - INFO - 🚀 Starting trading loop...
+2026-05-24 06:14:06,883 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:14:06,883 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:14:07,613 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:14:07,613 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:14:07,852 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:14:07,852 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:14:08,091 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:14:08,091 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:14:08,332 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:14:08,332 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:14:08,572 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:14:08,572 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:14:08,815 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:14:08,815 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:14:09,056 - WARNING - ⚠️ No data for USO
+2026-05-24 06:14:09,056 - WARNING - ⚠️ No data for USO
+2026-05-24 06:14:09,294 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:14:09,294 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:14:09,534 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:14:09,534 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:14:32,685 - INFO - ================================================================================
+2026-05-24 06:14:32,685 - INFO - ================================================================================
+2026-05-24 06:14:32,685 - INFO - 🚀 ATBOT v3.1 PRODUCTION - LIVE TRADING
+2026-05-24 06:14:32,685 - INFO - 🚀 ATBOT v3.1 PRODUCTION - LIVE TRADING
+2026-05-24 06:14:32,685 - INFO - ================================================================================
+2026-05-24 06:14:32,685 - INFO - ================================================================================
+2026-05-24 06:14:32,686 - ERROR - ❌ Load state error: 'trades'
+2026-05-24 06:14:32,686 - ERROR - ❌ Load state error: 'trades'
+2026-05-24 06:14:33,411 - INFO - ✅ ATBOT: Alpaca Live API connected
+2026-05-24 06:14:33,411 - INFO - ✅ ATBOT: Alpaca Live API connected
+2026-05-24 06:14:33,649 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:14:33,649 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:14:33,650 - INFO - ✅ ATBOT Connected: $248.91
+2026-05-24 06:14:33,650 - INFO - ✅ ATBOT Connected: $248.91
+2026-05-24 06:14:34,181 - INFO - ✉️ ATBOT Telegram sent
+2026-05-24 06:14:34,181 - INFO - ✉️ ATBOT Telegram sent
+2026-05-24 06:14:34,182 - INFO - 🚀 Starting trading loop...
+2026-05-24 06:14:34,182 - INFO - 🚀 Starting trading loop...
+2026-05-24 06:14:34,420 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:14:34,420 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:14:35,148 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:14:35,148 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:14:35,387 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:14:35,387 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:14:35,627 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:14:35,627 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:14:35,869 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:14:35,869 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:14:36,114 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:14:36,114 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:14:36,355 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:14:36,355 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:14:36,594 - WARNING - ⚠️ No data for USO
+2026-05-24 06:14:36,594 - WARNING - ⚠️ No data for USO
+2026-05-24 06:14:36,836 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:14:36,836 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:14:37,076 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:14:37,076 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:15:07,327 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:15:07,327 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:15:07,566 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:15:07,566 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:15:07,806 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:15:07,806 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:15:08,048 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:15:08,048 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:15:08,289 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:15:08,289 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:15:08,549 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:15:08,549 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:15:08,789 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:15:08,789 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:15:09,030 - WARNING - ⚠️ No data for USO
+2026-05-24 06:15:09,030 - WARNING - ⚠️ No data for USO
+2026-05-24 06:15:09,288 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:15:09,288 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:15:09,532 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:15:09,532 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:15:09,532 - INFO - ⏱️ ATBOT cycle 2: checking 9 symbols
+2026-05-24 06:15:09,532 - INFO - ⏱️ ATBOT cycle 2: checking 9 symbols
+2026-05-24 06:15:39,801 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:15:39,801 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:15:40,041 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:15:40,041 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:15:40,281 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:15:40,281 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:15:40,519 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:15:40,519 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:15:40,759 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:15:40,759 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:15:41,000 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:15:41,000 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:15:41,240 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:15:41,240 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:15:41,480 - WARNING - ⚠️ No data for USO
+2026-05-24 06:15:41,480 - WARNING - ⚠️ No data for USO
+2026-05-24 06:15:41,720 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:15:41,720 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:15:41,961 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:15:41,961 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:16:12,231 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:16:12,231 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:16:12,474 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:16:12,474 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:16:12,715 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:16:12,715 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:16:12,954 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:16:12,954 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:16:13,196 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:16:13,196 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:16:13,435 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:16:13,435 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:16:13,675 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:16:13,675 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:16:13,917 - WARNING - ⚠️ No data for USO
+2026-05-24 06:16:13,917 - WARNING - ⚠️ No data for USO
+2026-05-24 06:16:14,155 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:16:14,155 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:16:14,395 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:16:14,395 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:16:14,395 - INFO - ⏱️ ATBOT cycle 4: checking 9 symbols
+2026-05-24 06:16:14,395 - INFO - ⏱️ ATBOT cycle 4: checking 9 symbols
+2026-05-24 06:16:44,658 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:16:44,658 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:16:44,897 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:16:44,897 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:16:45,140 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:16:45,140 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:16:45,385 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:16:45,385 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:16:45,624 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:16:45,624 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:16:45,869 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:16:45,869 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:16:46,109 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:16:46,109 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:16:46,350 - WARNING - ⚠️ No data for USO
+2026-05-24 06:16:46,350 - WARNING - ⚠️ No data for USO
+2026-05-24 06:16:46,590 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:16:46,590 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:16:46,834 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:16:46,834 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:17:17,103 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:17:17,103 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:17:17,343 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:17:17,343 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:17:17,589 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:17:17,589 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:17:17,835 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:17:17,835 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:17:18,076 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:17:18,076 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:17:18,315 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:17:18,315 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:17:18,562 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:17:18,562 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:17:18,801 - WARNING - ⚠️ No data for USO
+2026-05-24 06:17:18,801 - WARNING - ⚠️ No data for USO
+2026-05-24 06:17:19,041 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:17:19,041 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:17:19,284 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:17:19,284 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:17:19,285 - INFO - ⏱️ ATBOT cycle 6: checking 9 symbols
+2026-05-24 06:17:19,285 - INFO - ⏱️ ATBOT cycle 6: checking 9 symbols
+2026-05-24 06:17:49,553 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:17:49,553 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:17:49,794 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:17:49,794 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:17:50,034 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:17:50,034 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:17:50,282 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:17:50,282 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:17:50,522 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:17:50,522 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:17:50,766 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:17:50,766 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:17:51,005 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:17:51,005 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:17:51,245 - WARNING - ⚠️ No data for USO
+2026-05-24 06:17:51,245 - WARNING - ⚠️ No data for USO
+2026-05-24 06:17:51,484 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:17:51,484 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:17:51,724 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:17:51,724 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:18:21,993 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:18:21,993 - INFO - 💰 ATBOT Account: Equity=$248.91 | BP=$248.71
+2026-05-24 06:18:22,234 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:18:22,234 - WARNING - ⚠️ No data for SPY
+2026-05-24 06:18:22,472 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:18:22,472 - WARNING - ⚠️ No data for QQQ
+2026-05-24 06:18:22,715 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:18:22,715 - WARNING - ⚠️ No data for IWM
+2026-05-24 06:18:22,955 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:18:22,955 - WARNING - ⚠️ No data for DIA
+2026-05-24 06:18:23,194 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:18:23,194 - WARNING - ⚠️ No data for GLD
+2026-05-24 06:18:23,433 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:18:23,433 - WARNING - ⚠️ No data for SLV
+2026-05-24 06:18:23,674 - WARNING - ⚠️ No data for USO
+2026-05-24 06:18:23,674 - WARNING - ⚠️ No data for USO
+2026-05-24 06:18:23,915 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:18:23,915 - WARNING - ⚠️ No data for DBC
+2026-05-24 06:18:24,158 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:18:24,158 - WARNING - ⚠️ No data for DBA
+2026-05-24 06:18:24,158 - INFO - ⏱️ ATBOT cycle 8: checking 9 symbols
+2026-05-24 06:18:24,158 - INFO - ⏱️ ATBOT cycle 8: checking 9 symbols

@@ -208,3 +208,111 @@ python-dotenv could not parse statement starting at line 1
 2026-05-24 05:48:25,507 - INFO - ⏱️ PS2TRADEB cycle 54: checking 5 pairs
 2026-05-24 05:49:26,766 - INFO - ⏱️ PS2TRADEB cycle 56: checking 5 pairs
 2026-05-24 05:49:26,766 - INFO - ⏱️ PS2TRADEB cycle 56: checking 5 pairs
+2026-05-24 05:50:28,021 - INFO - ⏱️ PS2TRADEB cycle 58: checking 5 pairs
+2026-05-24 05:50:28,021 - INFO - ⏱️ PS2TRADEB cycle 58: checking 5 pairs
+2026-05-24 05:51:29,437 - INFO - ⏱️ PS2TRADEB cycle 60: checking 5 pairs
+2026-05-24 05:51:29,437 - INFO - ⏱️ PS2TRADEB cycle 60: checking 5 pairs
+2026-05-24 05:52:30,705 - INFO - ⏱️ PS2TRADEB cycle 62: checking 5 pairs
+2026-05-24 05:52:30,705 - INFO - ⏱️ PS2TRADEB cycle 62: checking 5 pairs
+2026-05-24 05:53:31,965 - INFO - ⏱️ PS2TRADEB cycle 64: checking 5 pairs
+2026-05-24 05:53:31,965 - INFO - ⏱️ PS2TRADEB cycle 64: checking 5 pairs
+2026-05-24 05:54:33,239 - INFO - ⏱️ PS2TRADEB cycle 66: checking 5 pairs
+2026-05-24 05:54:33,239 - INFO - ⏱️ PS2TRADEB cycle 66: checking 5 pairs
+2026-05-24 05:55:34,480 - INFO - ⏱️ PS2TRADEB cycle 68: checking 5 pairs
+2026-05-24 05:55:34,480 - INFO - ⏱️ PS2TRADEB cycle 68: checking 5 pairs
+2026-05-24 05:56:35,658 - INFO - ⏱️ PS2TRADEB cycle 70: checking 5 pairs
+2026-05-24 05:56:35,658 - INFO - ⏱️ PS2TRADEB cycle 70: checking 5 pairs
+2026-05-24 05:57:36,909 - INFO - ⏱️ PS2TRADEB cycle 72: checking 5 pairs
+2026-05-24 05:57:36,909 - INFO - ⏱️ PS2TRADEB cycle 72: checking 5 pairs
+2026-05-24 05:58:38,088 - INFO - ⏱️ PS2TRADEB cycle 74: checking 5 pairs
+2026-05-24 05:58:38,088 - INFO - ⏱️ PS2TRADEB cycle 74: checking 5 pairs
+2026-05-24 05:59:39,456 - INFO - ⏱️ PS2TRADEB cycle 76: checking 5 pairs
+2026-05-24 05:59:39,456 - INFO - ⏱️ PS2TRADEB cycle 76: checking 5 pairs
+2026-05-24 06:00:40,658 - INFO - ⏱️ PS2TRADEB cycle 78: checking 5 pairs
+2026-05-24 06:00:40,658 - INFO - ⏱️ PS2TRADEB cycle 78: checking 5 pairs
+2026-05-24 06:01:41,975 - INFO - ⏱️ PS2TRADEB cycle 80: checking 5 pairs
+2026-05-24 06:01:41,975 - INFO - ⏱️ PS2TRADEB cycle 80: checking 5 pairs
+2026-05-24 06:02:43,161 - INFO - ⏱️ PS2TRADEB cycle 82: checking 5 pairs
+2026-05-24 06:02:43,161 - INFO - ⏱️ PS2TRADEB cycle 82: checking 5 pairs
+2026-05-24 06:03:44,456 - INFO - ⏱️ PS2TRADEB cycle 84: checking 5 pairs
+2026-05-24 06:03:44,456 - INFO - ⏱️ PS2TRADEB cycle 84: checking 5 pairs
+2026-05-24 06:04:35,797 - INFO - ================================================================================
+2026-05-24 06:04:35,797 - INFO - ================================================================================
+2026-05-24 06:04:35,797 - INFO - 🚀 PS2TRADEB v3.1 PRODUCTION - PAPER TRADING
+2026-05-24 06:04:35,797 - INFO - 🚀 PS2TRADEB v3.1 PRODUCTION - PAPER TRADING
+2026-05-24 06:04:35,797 - INFO - ================================================================================
+2026-05-24 06:04:35,797 - INFO - ================================================================================
+2026-05-24 06:04:35,797 - INFO - 🔐 Validating Binance API credentials...
+2026-05-24 06:04:35,797 - INFO - 🔐 Validating Binance API credentials...
+2026-05-24 06:04:35,797 - INFO - ✅ Credentials format validated
+2026-05-24 06:04:35,797 - INFO - ✅ Credentials format validated
+2026-05-24 06:04:35,797 - INFO - ✅ PS2TRADEB: Paper API connected
+2026-05-24 06:04:35,797 - INFO - ✅ PS2TRADEB: Paper API connected
+2026-05-24 06:04:35,907 - ERROR - ❌ PS2TRADEB: HTTP 400 - {"code":-1102,"msg":"Mandatory parameter 'signature' was not sent, was empty/null, or malformed."}
+2026-05-24 06:04:35,907 - ERROR - ❌ PS2TRADEB: HTTP 400 - {"code":-1102,"msg":"Mandatory parameter 'signature' was not sent, was empty/null, or malformed."}
+2026-05-24 06:04:35,907 - INFO - 🚀 Starting trading loop...
+2026-05-24 06:04:35,907 - INFO - 🚀 Starting trading loop...
+2026-05-24 06:05:07,021 - INFO - ⏱️ PS2TRADEB cycle 2: checking 5 pairs
+2026-05-24 06:05:07,021 - INFO - ⏱️ PS2TRADEB cycle 2: checking 5 pairs
+2026-05-24 06:06:08,302 - INFO - ⏱️ PS2TRADEB cycle 4: checking 5 pairs
+2026-05-24 06:06:08,302 - INFO - ⏱️ PS2TRADEB cycle 4: checking 5 pairs
+2026-05-24 06:07:09,529 - INFO - ⏱️ PS2TRADEB cycle 6: checking 5 pairs
+2026-05-24 06:07:09,529 - INFO - ⏱️ PS2TRADEB cycle 6: checking 5 pairs
+2026-05-24 06:08:10,764 - INFO - ⏱️ PS2TRADEB cycle 8: checking 5 pairs
+2026-05-24 06:08:10,764 - INFO - ⏱️ PS2TRADEB cycle 8: checking 5 pairs
+2026-05-24 06:08:20,761 - INFO - ================================================================================
+2026-05-24 06:08:20,761 - INFO - ================================================================================
+2026-05-24 06:08:20,761 - INFO - 🚀 PS2TRADEB v3.1 PRODUCTION - PAPER TRADING
+2026-05-24 06:08:20,761 - INFO - 🚀 PS2TRADEB v3.1 PRODUCTION - PAPER TRADING
+2026-05-24 06:08:20,761 - INFO - ================================================================================
+2026-05-24 06:08:20,761 - INFO - ================================================================================
+2026-05-24 06:08:20,761 - INFO - 🔐 Validating Binance API credentials...
+2026-05-24 06:08:20,761 - INFO - 🔐 Validating Binance API credentials...
+2026-05-24 06:08:20,761 - INFO - ✅ Credentials format validated
+2026-05-24 06:08:20,761 - INFO - ✅ Credentials format validated
+2026-05-24 06:08:20,761 - INFO - ✅ PS2TRADEB: Paper API connected
+2026-05-24 06:08:20,761 - INFO - ✅ PS2TRADEB: Paper API connected
+2026-05-24 06:08:20,898 - ERROR - ❌ PS2TRADEB: Unauthorized - Invalid API Key or Secret
+2026-05-24 06:08:20,898 - ERROR - ❌ PS2TRADEB: Unauthorized - Invalid API Key or Secret
+2026-05-24 06:08:20,898 - ERROR -    Please check your .env file credentials
+2026-05-24 06:08:20,898 - ERROR -    Please check your .env file credentials
+2026-05-24 06:08:20,898 - INFO - 🚀 Starting trading loop...
+2026-05-24 06:08:20,898 - INFO - 🚀 Starting trading loop...
+2026-05-24 06:08:52,150 - INFO - ⏱️ PS2TRADEB cycle 2: checking 5 pairs
+2026-05-24 06:08:52,150 - INFO - ⏱️ PS2TRADEB cycle 2: checking 5 pairs
+2026-05-24 06:09:02,097 - INFO - ================================================================================
+2026-05-24 06:09:02,097 - INFO - ================================================================================
+2026-05-24 06:09:02,097 - INFO - 🚀 PS2TRADEB v3.1 PRODUCTION - PAPER TRADING
+2026-05-24 06:09:02,097 - INFO - 🚀 PS2TRADEB v3.1 PRODUCTION - PAPER TRADING
+2026-05-24 06:09:02,097 - INFO - ================================================================================
+2026-05-24 06:09:02,097 - INFO - ================================================================================
+2026-05-24 06:09:02,097 - INFO - 🔐 Validating Binance API credentials...
+2026-05-24 06:09:02,097 - INFO - 🔐 Validating Binance API credentials...
+2026-05-24 06:09:02,097 - INFO - ✅ Credentials format validated
+2026-05-24 06:09:02,097 - INFO - ✅ Credentials format validated
+2026-05-24 06:09:02,097 - INFO - ✅ PS2TRADEB: Paper API connected
+2026-05-24 06:09:02,097 - INFO - ✅ PS2TRADEB: Paper API connected
+2026-05-24 06:09:02,238 - ERROR - ❌ PS2TRADEB: Unauthorized - Invalid API Key or Secret
+2026-05-24 06:09:02,238 - ERROR - ❌ PS2TRADEB: Unauthorized - Invalid API Key or Secret
+2026-05-24 06:09:02,239 - ERROR -    Please check your .env file credentials
+2026-05-24 06:09:02,239 - ERROR -    Please check your .env file credentials
+2026-05-24 06:09:02,239 - INFO - 🚀 Starting trading loop...
+2026-05-24 06:09:02,239 - INFO - 🚀 Starting trading loop...
+2026-05-24 06:09:33,502 - INFO - ⏱️ PS2TRADEB cycle 2: checking 5 pairs
+2026-05-24 06:09:33,502 - INFO - ⏱️ PS2TRADEB cycle 2: checking 5 pairs
+2026-05-24 06:10:34,746 - INFO - ⏱️ PS2TRADEB cycle 4: checking 5 pairs
+2026-05-24 06:10:34,746 - INFO - ⏱️ PS2TRADEB cycle 4: checking 5 pairs
+2026-05-24 06:11:35,990 - INFO - ⏱️ PS2TRADEB cycle 6: checking 5 pairs
+2026-05-24 06:11:35,990 - INFO - ⏱️ PS2TRADEB cycle 6: checking 5 pairs
+2026-05-24 06:12:37,136 - INFO - ⏱️ PS2TRADEB cycle 8: checking 5 pairs
+2026-05-24 06:12:37,136 - INFO - ⏱️ PS2TRADEB cycle 8: checking 5 pairs
+2026-05-24 06:13:38,332 - INFO - ⏱️ PS2TRADEB cycle 10: checking 5 pairs
+2026-05-24 06:13:38,332 - INFO - ⏱️ PS2TRADEB cycle 10: checking 5 pairs
+2026-05-24 06:14:39,733 - INFO - ⏱️ PS2TRADEB cycle 12: checking 5 pairs
+2026-05-24 06:14:39,733 - INFO - ⏱️ PS2TRADEB cycle 12: checking 5 pairs
+2026-05-24 06:15:40,943 - INFO - ⏱️ PS2TRADEB cycle 14: checking 5 pairs
+2026-05-24 06:15:40,943 - INFO - ⏱️ PS2TRADEB cycle 14: checking 5 pairs
+2026-05-24 06:16:42,145 - INFO - ⏱️ PS2TRADEB cycle 16: checking 5 pairs
+2026-05-24 06:16:42,145 - INFO - ⏱️ PS2TRADEB cycle 16: checking 5 pairs
+2026-05-24 06:17:43,365 - INFO - ⏱️ PS2TRADEB cycle 18: checking 5 pairs
+2026-05-24 06:17:43,365 - INFO - ⏱️ PS2TRADEB cycle 18: checking 5 pairs

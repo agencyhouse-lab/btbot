@@ -2,3 +2,23 @@ Traceback (most recent call last):
   File "/root/btbot/etbot.py", line 15, in <module>
     from config import (
 ModuleNotFoundError: No module named 'config'
+Traceback (most recent call last):
+  File "/root/btbot/etbot.py", line 15, in <module>
+    from config import (
+ModuleNotFoundError: No module named 'config'
+Traceback (most recent call last):
+  File "/root/btbot/etbot.py", line 15, in <module>
+    from config import (
+ImportError: cannot import name 'ALL_SYMBOLS' from 'config' (/root/btbot/config.py)
+Traceback (most recent call last):
+  File "/root/btbot/etbot.py", line 20, in <module>
+    from signal_engine import detect_signal, get_current_price, is_market_open, get_market_status
+  File "/root/btbot/signal_engine.py", line 7, in <module>
+    import yfinance as yf
+ModuleNotFoundError: No module named 'yfinance'
+Traceback (most recent call last):
+  File "/root/btbot/etbot.py", line 20, in <module>
+    from signal_engine import detect_signal, get_current_price, is_market_open, get_market_status
+  File "/root/btbot/signal_engine.py", line 7, in <module>
+    import yfinance as yf
+ModuleNotFoundError: No module named 'yfinance'

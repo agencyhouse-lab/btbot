@@ -1,0 +1,136 @@
+python3: can't open file '/root/btbot/ps2tradeb_v4.py': [Errno 2] No such file or directory
+python3: can't open file '/root/btbot/ps2tradeb_v4.py': [Errno 2] No such file or directory
+python3: can't open file '/root/btbot/ps2tradeb_v4.py': [Errno 2] No such file or directory
+python3: can't open file '/root/btbot/ps2tradeb_v4.py': [Errno 2] No such file or directory
+2026-05-24 06:22:36,301 - INFO - 🚀 PS2TRADEB v4.0 - SIMPLIFIED REST API
+2026-05-24 06:22:36,301 - INFO - 🚀 PS2TRADEB v4.0 - SIMPLIFIED REST API
+2026-05-24 06:22:36,301 - INFO - 🔗 Mode: TESTNET
+2026-05-24 06:22:36,301 - INFO - 🔗 Mode: TESTNET
+2026-05-24 06:22:36,416 - ERROR - ❌ PS2TRADEB Account error: 401
+2026-05-24 06:22:36,416 - ERROR - ❌ PS2TRADEB Account error: 401
+2026-05-24 06:23:36,637 - ERROR - ❌ PS2TRADEB Account error: 401
+2026-05-24 06:23:36,637 - ERROR - ❌ PS2TRADEB Account error: 401
+2026-05-24 06:24:36,797 - ERROR - ❌ PS2TRADEB Account error: 401
+2026-05-24 06:24:36,797 - ERROR - ❌ PS2TRADEB Account error: 401
+2026-05-24 06:24:51,665 - INFO - 🚀 PS2TRADEB v4.0 - SIMPLIFIED REST API
+2026-05-24 06:24:51,665 - INFO - 🚀 PS2TRADEB v4.0 - SIMPLIFIED REST API
+2026-05-24 06:24:51,666 - INFO - 🔗 Mode: TESTNET
+2026-05-24 06:24:51,666 - INFO - 🔗 Mode: TESTNET
+2026-05-24 06:24:51,771 - ERROR - ❌ PS2TRADEB Account error: 401
+2026-05-24 06:24:51,771 - ERROR - ❌ PS2TRADEB Account error: 401
+2026-05-24 06:25:51,982 - ERROR - ❌ PS2TRADEB Account error: 401
+2026-05-24 06:25:51,982 - ERROR - ❌ PS2TRADEB Account error: 401
+2026-05-24 06:26:52,113 - ERROR - ❌ PS2TRADEB Account error: 401
+2026-05-24 06:26:52,113 - ERROR - ❌ PS2TRADEB Account error: 401
+2026-05-24 06:27:52,295 - ERROR - ❌ PS2TRADEB Account error: 401
+2026-05-24 06:27:52,295 - ERROR - ❌ PS2TRADEB Account error: 401
+2026-05-24 06:28:52,476 - ERROR - ❌ PS2TRADEB Account error: 401
+2026-05-24 06:28:52,476 - ERROR - ❌ PS2TRADEB Account error: 401
+2026-05-24 06:29:52,687 - ERROR - ❌ PS2TRADEB Account error: 401
+2026-05-24 06:29:52,687 - ERROR - ❌ PS2TRADEB Account error: 401
+2026-05-24 06:30:52,824 - ERROR - ❌ PS2TRADEB Account error: 401
+2026-05-24 06:30:52,824 - ERROR - ❌ PS2TRADEB Account error: 401
+2026-05-24 06:31:52,998 - ERROR - ❌ PS2TRADEB Account error: 401
+2026-05-24 06:31:52,998 - ERROR - ❌ PS2TRADEB Account error: 401
+2026-05-24 06:32:53,201 - ERROR - ❌ PS2TRADEB Account error: 401
+2026-05-24 06:32:53,201 - ERROR - ❌ PS2TRADEB Account error: 401
+2026-05-24 06:33:36,550 - INFO - 🚀 PS2TRADEB v4.0 - SIMPLIFIED REST API
+2026-05-24 06:33:36,550 - INFO - 🚀 PS2TRADEB v4.0 - SIMPLIFIED REST API
+2026-05-24 06:33:36,550 - INFO - 🔗 Mode: LIVE
+2026-05-24 06:33:36,550 - INFO - 🔗 Mode: LIVE
+2026-05-24 06:33:36,664 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:33:36,664 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:33:36,664 - INFO - ⏱️ PS2TRADEB cycle 1: checking 5 pairs
+2026-05-24 06:33:36,664 - INFO - ⏱️ PS2TRADEB cycle 1: checking 5 pairs
+2026-05-24 06:33:38,719 - INFO - ✉️ Telegram sent: 53 chars
+2026-05-24 06:33:38,719 - INFO - ✉️ Telegram sent: 53 chars
+2026-05-24 06:34:38,891 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:34:38,891 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:34:38,892 - INFO - ⏱️ PS2TRADEB cycle 2: checking 5 pairs
+2026-05-24 06:34:38,892 - INFO - ⏱️ PS2TRADEB cycle 2: checking 5 pairs
+2026-05-24 06:34:40,686 - INFO - ✉️ Telegram sent: 53 chars
+2026-05-24 06:34:40,686 - INFO - ✉️ Telegram sent: 53 chars
+2026-05-24 06:35:40,804 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:35:40,804 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:35:40,804 - INFO - ⏱️ PS2TRADEB cycle 3: checking 5 pairs
+2026-05-24 06:35:40,804 - INFO - ⏱️ PS2TRADEB cycle 3: checking 5 pairs
+2026-05-24 06:35:42,614 - INFO - ✉️ Telegram sent: 53 chars
+2026-05-24 06:35:42,614 - INFO - ✉️ Telegram sent: 53 chars
+2026-05-24 06:36:42,768 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:36:42,768 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:36:42,769 - INFO - ⏱️ PS2TRADEB cycle 4: checking 5 pairs
+2026-05-24 06:36:42,769 - INFO - ⏱️ PS2TRADEB cycle 4: checking 5 pairs
+2026-05-24 06:36:44,571 - INFO - ✉️ Telegram sent: 53 chars
+2026-05-24 06:36:44,571 - INFO - ✉️ Telegram sent: 53 chars
+2026-05-24 06:37:44,740 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:37:44,740 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:37:44,740 - INFO - ⏱️ PS2TRADEB cycle 5: checking 5 pairs
+2026-05-24 06:37:44,740 - INFO - ⏱️ PS2TRADEB cycle 5: checking 5 pairs
+2026-05-24 06:37:46,544 - INFO - ✉️ Telegram sent: 53 chars
+2026-05-24 06:37:46,544 - INFO - ✉️ Telegram sent: 53 chars
+2026-05-24 06:38:46,687 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:38:46,687 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:38:46,687 - INFO - ⏱️ PS2TRADEB cycle 6: checking 5 pairs
+2026-05-24 06:38:46,687 - INFO - ⏱️ PS2TRADEB cycle 6: checking 5 pairs
+2026-05-24 06:38:48,478 - INFO - ✉️ Telegram sent: 53 chars
+2026-05-24 06:38:48,478 - INFO - ✉️ Telegram sent: 53 chars
+2026-05-24 06:39:48,680 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:39:48,680 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:39:48,680 - INFO - ⏱️ PS2TRADEB cycle 7: checking 5 pairs
+2026-05-24 06:39:48,680 - INFO - ⏱️ PS2TRADEB cycle 7: checking 5 pairs
+2026-05-24 06:39:50,458 - INFO - ✉️ Telegram sent: 53 chars
+2026-05-24 06:39:50,458 - INFO - ✉️ Telegram sent: 53 chars
+2026-05-24 06:40:50,642 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:40:50,642 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:40:50,642 - INFO - ⏱️ PS2TRADEB cycle 8: checking 5 pairs
+2026-05-24 06:40:50,642 - INFO - ⏱️ PS2TRADEB cycle 8: checking 5 pairs
+2026-05-24 06:40:52,422 - INFO - ✉️ Telegram sent: 53 chars
+2026-05-24 06:40:52,422 - INFO - ✉️ Telegram sent: 53 chars
+2026-05-24 06:41:52,587 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:41:52,587 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:41:52,587 - INFO - ⏱️ PS2TRADEB cycle 9: checking 5 pairs
+2026-05-24 06:41:52,587 - INFO - ⏱️ PS2TRADEB cycle 9: checking 5 pairs
+2026-05-24 06:41:54,436 - INFO - ✉️ Telegram sent: 53 chars
+2026-05-24 06:41:54,436 - INFO - ✉️ Telegram sent: 53 chars
+2026-05-24 06:42:54,588 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:42:54,588 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:42:54,589 - INFO - ⏱️ PS2TRADEB cycle 10: checking 5 pairs
+2026-05-24 06:42:54,589 - INFO - ⏱️ PS2TRADEB cycle 10: checking 5 pairs
+2026-05-24 06:42:56,444 - INFO - ✉️ Telegram sent: 53 chars
+2026-05-24 06:42:56,444 - INFO - ✉️ Telegram sent: 53 chars
+2026-05-24 06:43:56,614 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:43:56,614 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:43:56,614 - INFO - ⏱️ PS2TRADEB cycle 11: checking 5 pairs
+2026-05-24 06:43:56,614 - INFO - ⏱️ PS2TRADEB cycle 11: checking 5 pairs
+2026-05-24 06:43:58,403 - INFO - ✉️ Telegram sent: 53 chars
+2026-05-24 06:43:58,403 - INFO - ✉️ Telegram sent: 53 chars
+2026-05-24 06:44:58,533 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:44:58,533 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:44:58,533 - INFO - ⏱️ PS2TRADEB cycle 12: checking 5 pairs
+2026-05-24 06:44:58,533 - INFO - ⏱️ PS2TRADEB cycle 12: checking 5 pairs
+2026-05-24 06:45:00,525 - INFO - ✉️ Telegram sent: 53 chars
+2026-05-24 06:45:00,525 - INFO - ✉️ Telegram sent: 53 chars
+2026-05-24 06:46:00,706 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:46:00,706 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:46:00,706 - INFO - ⏱️ PS2TRADEB cycle 13: checking 5 pairs
+2026-05-24 06:46:00,706 - INFO - ⏱️ PS2TRADEB cycle 13: checking 5 pairs
+2026-05-24 06:46:02,620 - INFO - ✉️ Telegram sent: 53 chars
+2026-05-24 06:46:02,620 - INFO - ✉️ Telegram sent: 53 chars
+2026-05-24 06:47:02,768 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:47:02,768 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:47:02,768 - INFO - ⏱️ PS2TRADEB cycle 14: checking 5 pairs
+2026-05-24 06:47:02,768 - INFO - ⏱️ PS2TRADEB cycle 14: checking 5 pairs
+2026-05-24 06:47:04,565 - INFO - ✉️ Telegram sent: 53 chars
+2026-05-24 06:47:04,565 - INFO - ✉️ Telegram sent: 53 chars
+2026-05-24 06:48:04,681 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:48:04,681 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:48:04,681 - INFO - ⏱️ PS2TRADEB cycle 15: checking 5 pairs
+2026-05-24 06:48:04,681 - INFO - ⏱️ PS2TRADEB cycle 15: checking 5 pairs
+2026-05-24 06:48:06,556 - INFO - ✉️ Telegram sent: 53 chars
+2026-05-24 06:48:06,556 - INFO - ✉️ Telegram sent: 53 chars
+2026-05-24 06:49:06,679 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:49:06,679 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:49:06,679 - INFO - ⏱️ PS2TRADEB cycle 16: checking 5 pairs
+2026-05-24 06:49:06,679 - INFO - ⏱️ PS2TRADEB cycle 16: checking 5 pairs
+2026-05-24 06:49:08,455 - INFO - ✉️ Telegram sent: 76 chars
+2026-05-24 06:49:08,455 - INFO - ✉️ Telegram sent: 76 chars

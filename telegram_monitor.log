@@ -21,3 +21,21 @@ python3: can't open file '/root/btbot/telegram_monitor_bot.py': [Errno 2] No suc
 2026-05-24 05:21:21,284 - INFO - 📱 Bot: @GSunny_Monitor_bot
 2026-05-24 05:21:22,025 - INFO - ✅ Telegram sent: 132 chars
 2026-05-24 05:21:22,025 - INFO - ✅ Telegram sent: 132 chars
+2026-05-24 05:50:23,095 - INFO - 🔍 Checking bot status...
+2026-05-24 05:50:23,095 - INFO - 🔍 Checking bot status...
+2026-05-24 06:20:24,358 - INFO - 🔍 Checking bot status...
+2026-05-24 06:20:24,358 - INFO - 🔍 Checking bot status...
+2026-05-24 06:20:25,100 - INFO - ✅ Telegram sent: 77 chars
+2026-05-24 06:20:25,100 - INFO - ✅ Telegram sent: 77 chars
+2026-05-24 06:20:25,100 - WARNING - ⚠️ atbot is offline!
+2026-05-24 06:20:25,100 - WARNING - ⚠️ atbot is offline!
+2026-05-24 06:20:25,831 - INFO - ✅ Telegram sent: 83 chars
+2026-05-24 06:20:25,831 - INFO - ✅ Telegram sent: 83 chars
+2026-05-24 06:20:25,831 - WARNING - ⚠️ ps2tradeb is offline!
+2026-05-24 06:20:25,831 - WARNING - ⚠️ ps2tradeb is offline!
+2026-05-24 06:20:25,831 - INFO - 📊 Status check:
+2026-05-24 06:20:25,831 - INFO - 📊 Status check:
+2026-05-24 06:20:25,838 - INFO -    🟠 ATBOT (Alpaca Live): ❌ OFFLINE
+2026-05-24 06:20:25,838 - INFO -    🟠 ATBOT (Alpaca Live): ❌ OFFLINE
+2026-05-24 06:20:25,843 - INFO -    🟡 PS2TRADEB (Binance Paper): ❌ OFFLINE
+2026-05-24 06:20:25,843 - INFO -    🟡 PS2TRADEB (Binance Paper): ❌ OFFLINE
