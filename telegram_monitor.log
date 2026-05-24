@@ -1,1 +1,23 @@
 python3: can't open file '/root/btbot/telegram_monitor_bot.py': [Errno 2] No such file or directory
+2026-05-24 04:56:57,077 - INFO - 🚀 Bot Monitor Started
+2026-05-24 04:56:57,077 - INFO - 🚀 Bot Monitor Started
+2026-05-24 04:56:57,077 - INFO - 📊 Monitoring 2 bots
+2026-05-24 04:56:57,077 - INFO - 📊 Monitoring 2 bots
+2026-05-24 04:56:58,120 - ERROR - ❌ Telegram error: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+2026-05-24 04:56:58,120 - ERROR - ❌ Telegram error: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+2026-05-24 05:20:51,026 - INFO - 🚀 Bot Monitor Started
+2026-05-24 05:20:51,026 - INFO - 🚀 Bot Monitor Started
+2026-05-24 05:20:51,026 - INFO - 📊 Monitoring 2 bots
+2026-05-24 05:20:51,026 - INFO - 📊 Monitoring 2 bots
+2026-05-24 05:20:51,026 - INFO - 📱 Bot: @GSunny_Monitor_bot
+2026-05-24 05:20:51,026 - INFO - 📱 Bot: @GSunny_Monitor_bot
+2026-05-24 05:20:55,373 - INFO - ✅ Telegram sent: 132 chars
+2026-05-24 05:20:55,373 - INFO - ✅ Telegram sent: 132 chars
+2026-05-24 05:21:21,275 - INFO - 🚀 Bot Monitor Started
+2026-05-24 05:21:21,275 - INFO - 🚀 Bot Monitor Started
+2026-05-24 05:21:21,283 - INFO - 📊 Monitoring 2 bots
+2026-05-24 05:21:21,283 - INFO - 📊 Monitoring 2 bots
+2026-05-24 05:21:21,284 - INFO - 📱 Bot: @GSunny_Monitor_bot
+2026-05-24 05:21:21,284 - INFO - 📱 Bot: @GSunny_Monitor_bot
+2026-05-24 05:21:22,025 - INFO - ✅ Telegram sent: 132 chars
+2026-05-24 05:21:22,025 - INFO - ✅ Telegram sent: 132 chars

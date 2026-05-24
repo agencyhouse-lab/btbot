@@ -89,3 +89,70 @@ python-dotenv could not parse statement starting at line 1
 2026-05-24 04:47:16,919 - INFO - 🚀 Starting trading loop...
 2026-05-24 04:47:48,149 - INFO - ⏱️ PS2TRADEB cycle 2: checking 5 pairs
 2026-05-24 04:48:49,334 - INFO - ⏱️ PS2TRADEB cycle 4: checking 5 pairs
+2026-05-24 04:49:50,637 - INFO - ⏱️ PS2TRADEB cycle 6: checking 5 pairs
+2026-05-24 04:50:51,901 - INFO - ⏱️ PS2TRADEB cycle 8: checking 5 pairs
+2026-05-24 04:51:53,064 - INFO - ⏱️ PS2TRADEB cycle 10: checking 5 pairs
+2026-05-24 04:52:54,289 - INFO - ⏱️ PS2TRADEB cycle 12: checking 5 pairs
+2026-05-24 04:53:55,499 - INFO - ⏱️ PS2TRADEB cycle 14: checking 5 pairs
+2026-05-24 04:54:56,855 - INFO - ⏱️ PS2TRADEB cycle 16: checking 5 pairs
+2026-05-24 04:55:58,132 - INFO - ⏱️ PS2TRADEB cycle 18: checking 5 pairs
+2026-05-24 04:56:59,391 - INFO - ⏱️ PS2TRADEB cycle 20: checking 5 pairs
+2026-05-24 04:58:00,611 - INFO - ⏱️ PS2TRADEB cycle 22: checking 5 pairs
+2026-05-24 04:59:01,822 - INFO - ⏱️ PS2TRADEB cycle 24: checking 5 pairs
+2026-05-24 05:00:03,096 - INFO - ⏱️ PS2TRADEB cycle 26: checking 5 pairs
+2026-05-24 05:01:04,277 - INFO - ⏱️ PS2TRADEB cycle 28: checking 5 pairs
+2026-05-24 05:02:05,500 - INFO - ⏱️ PS2TRADEB cycle 30: checking 5 pairs
+2026-05-24 05:03:06,836 - INFO - ⏱️ PS2TRADEB cycle 32: checking 5 pairs
+2026-05-24 05:04:08,104 - INFO - ⏱️ PS2TRADEB cycle 34: checking 5 pairs
+2026-05-24 05:05:09,300 - INFO - ⏱️ PS2TRADEB cycle 36: checking 5 pairs
+2026-05-24 05:06:10,626 - INFO - ⏱️ PS2TRADEB cycle 38: checking 5 pairs
+2026-05-24 05:07:11,924 - INFO - ⏱️ PS2TRADEB cycle 40: checking 5 pairs
+2026-05-24 05:08:13,129 - INFO - ⏱️ PS2TRADEB cycle 42: checking 5 pairs
+2026-05-24 05:09:14,365 - INFO - ⏱️ PS2TRADEB cycle 44: checking 5 pairs
+2026-05-24 05:10:15,549 - INFO - ⏱️ PS2TRADEB cycle 46: checking 5 pairs
+2026-05-24 05:11:16,918 - INFO - ⏱️ PS2TRADEB cycle 48: checking 5 pairs
+2026-05-24 05:12:18,276 - INFO - ⏱️ PS2TRADEB cycle 50: checking 5 pairs
+2026-05-24 05:13:19,491 - INFO - ⏱️ PS2TRADEB cycle 52: checking 5 pairs
+2026-05-24 05:14:20,683 - INFO - ⏱️ PS2TRADEB cycle 54: checking 5 pairs
+2026-05-24 05:15:21,927 - INFO - ⏱️ PS2TRADEB cycle 56: checking 5 pairs
+2026-05-24 05:16:23,184 - INFO - ⏱️ PS2TRADEB cycle 58: checking 5 pairs
+2026-05-24 05:17:24,374 - INFO - ⏱️ PS2TRADEB cycle 60: checking 5 pairs
+2026-05-24 05:18:25,625 - INFO - ⏱️ PS2TRADEB cycle 62: checking 5 pairs
+2026-05-24 05:19:27,131 - INFO - ⏱️ PS2TRADEB cycle 64: checking 5 pairs
+2026-05-24 05:20:28,561 - INFO - ⏱️ PS2TRADEB cycle 66: checking 5 pairs
+2026-05-24 05:20:51,030 - INFO - ================================================================================
+2026-05-24 05:20:51,030 - INFO - ================================================================================
+2026-05-24 05:20:51,030 - INFO - 🚀 PS2TRADEB v3.1 PRODUCTION - PAPER TRADING
+2026-05-24 05:20:51,030 - INFO - 🚀 PS2TRADEB v3.1 PRODUCTION - PAPER TRADING
+2026-05-24 05:20:51,030 - INFO - ================================================================================
+2026-05-24 05:20:51,030 - INFO - ================================================================================
+2026-05-24 05:20:51,030 - INFO - 🔐 Validating Binance API credentials...
+2026-05-24 05:20:51,030 - INFO - 🔐 Validating Binance API credentials...
+2026-05-24 05:20:51,030 - INFO - ✅ Credentials format validated
+2026-05-24 05:20:51,030 - INFO - ✅ Credentials format validated
+2026-05-24 05:20:51,030 - INFO - ✅ PS2TRADEB: Paper API connected
+2026-05-24 05:20:51,030 - INFO - ✅ PS2TRADEB: Paper API connected
+2026-05-24 05:20:51,169 - ERROR - ❌ PS2TRADEB: HTTP 400 - {"code":-1102,"msg":"Mandatory parameter 'signature' was not sent, was empty/null, or malformed."}
+2026-05-24 05:20:51,169 - ERROR - ❌ PS2TRADEB: HTTP 400 - {"code":-1102,"msg":"Mandatory parameter 'signature' was not sent, was empty/null, or malformed."}
+2026-05-24 05:20:51,169 - INFO - 🚀 Starting trading loop...
+2026-05-24 05:20:51,169 - INFO - 🚀 Starting trading loop...
+2026-05-24 05:21:21,276 - INFO - ================================================================================
+2026-05-24 05:21:21,276 - INFO - ================================================================================
+2026-05-24 05:21:21,277 - INFO - 🚀 PS2TRADEB v3.1 PRODUCTION - PAPER TRADING
+2026-05-24 05:21:21,277 - INFO - 🚀 PS2TRADEB v3.1 PRODUCTION - PAPER TRADING
+2026-05-24 05:21:21,277 - INFO - ================================================================================
+2026-05-24 05:21:21,277 - INFO - ================================================================================
+2026-05-24 05:21:21,277 - INFO - 🔐 Validating Binance API credentials...
+2026-05-24 05:21:21,277 - INFO - 🔐 Validating Binance API credentials...
+2026-05-24 05:21:21,277 - INFO - ✅ Credentials format validated
+2026-05-24 05:21:21,277 - INFO - ✅ Credentials format validated
+2026-05-24 05:21:21,277 - INFO - ✅ PS2TRADEB: Paper API connected
+2026-05-24 05:21:21,277 - INFO - ✅ PS2TRADEB: Paper API connected
+2026-05-24 05:21:21,420 - ERROR - ❌ PS2TRADEB: HTTP 400 - {"code":-1102,"msg":"Mandatory parameter 'signature' was not sent, was empty/null, or malformed."}
+2026-05-24 05:21:21,420 - ERROR - ❌ PS2TRADEB: HTTP 400 - {"code":-1102,"msg":"Mandatory parameter 'signature' was not sent, was empty/null, or malformed."}
+2026-05-24 05:21:21,421 - INFO - 🚀 Starting trading loop...
+2026-05-24 05:21:21,421 - INFO - 🚀 Starting trading loop...
+2026-05-24 05:21:52,624 - INFO - ⏱️ PS2TRADEB cycle 2: checking 5 pairs
+2026-05-24 05:21:52,624 - INFO - ⏱️ PS2TRADEB cycle 2: checking 5 pairs
+2026-05-24 05:22:53,789 - INFO - ⏱️ PS2TRADEB cycle 4: checking 5 pairs
+2026-05-24 05:22:53,789 - INFO - ⏱️ PS2TRADEB cycle 4: checking 5 pairs
