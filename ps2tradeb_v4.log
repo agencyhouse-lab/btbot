@@ -134,3 +134,109 @@ python3: can't open file '/root/btbot/ps2tradeb_v4.py': [Errno 2] No such file o
 2026-05-24 06:49:06,679 - INFO - ⏱️ PS2TRADEB cycle 16: checking 5 pairs
 2026-05-24 06:49:08,455 - INFO - ✉️ Telegram sent: 76 chars
 2026-05-24 06:49:08,455 - INFO - ✉️ Telegram sent: 76 chars
+2026-05-24 06:49:40,443 - INFO - 🚀 PS2TRADEB v4.0 - SIMPLIFIED REST API
+2026-05-24 06:49:40,443 - INFO - 🚀 PS2TRADEB v4.0 - SIMPLIFIED REST API
+2026-05-24 06:49:40,443 - INFO - 🔗 Mode: LIVE
+2026-05-24 06:49:40,443 - INFO - 🔗 Mode: LIVE
+2026-05-24 06:49:40,591 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:49:40,591 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:49:40,591 - INFO - ⏱️ PS2TRADEB cycle 1: checking 5 pairs
+2026-05-24 06:49:40,591 - INFO - ⏱️ PS2TRADEB cycle 1: checking 5 pairs
+2026-05-24 06:49:40,835 - ERROR - Signal error for BTCUSDT: name 'get_rsi' is not defined
+2026-05-24 06:49:40,835 - ERROR - Signal error for BTCUSDT: name 'get_rsi' is not defined
+2026-05-24 06:49:41,094 - ERROR - Signal error for ETHUSDT: name 'get_rsi' is not defined
+2026-05-24 06:49:41,094 - ERROR - Signal error for ETHUSDT: name 'get_rsi' is not defined
+2026-05-24 06:49:41,348 - ERROR - Signal error for BNBUSDT: name 'get_rsi' is not defined
+2026-05-24 06:49:41,348 - ERROR - Signal error for BNBUSDT: name 'get_rsi' is not defined
+2026-05-24 06:49:41,621 - ERROR - Signal error for ADAUSDT: name 'get_rsi' is not defined
+2026-05-24 06:49:41,621 - ERROR - Signal error for ADAUSDT: name 'get_rsi' is not defined
+2026-05-24 06:49:41,882 - ERROR - Signal error for XRPUSDT: name 'get_rsi' is not defined
+2026-05-24 06:49:41,882 - ERROR - Signal error for XRPUSDT: name 'get_rsi' is not defined
+2026-05-24 06:50:42,071 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:50:42,071 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:50:42,072 - INFO - ⏱️ PS2TRADEB cycle 2: checking 5 pairs
+2026-05-24 06:50:42,072 - INFO - ⏱️ PS2TRADEB cycle 2: checking 5 pairs
+2026-05-24 06:50:42,325 - ERROR - Signal error for BTCUSDT: name 'get_rsi' is not defined
+2026-05-24 06:50:42,325 - ERROR - Signal error for BTCUSDT: name 'get_rsi' is not defined
+2026-05-24 06:50:42,587 - ERROR - Signal error for ETHUSDT: name 'get_rsi' is not defined
+2026-05-24 06:50:42,587 - ERROR - Signal error for ETHUSDT: name 'get_rsi' is not defined
+2026-05-24 06:50:42,835 - ERROR - Signal error for BNBUSDT: name 'get_rsi' is not defined
+2026-05-24 06:50:42,835 - ERROR - Signal error for BNBUSDT: name 'get_rsi' is not defined
+2026-05-24 06:50:43,086 - ERROR - Signal error for ADAUSDT: name 'get_rsi' is not defined
+2026-05-24 06:50:43,086 - ERROR - Signal error for ADAUSDT: name 'get_rsi' is not defined
+2026-05-24 06:50:43,341 - ERROR - Signal error for XRPUSDT: name 'get_rsi' is not defined
+2026-05-24 06:50:43,341 - ERROR - Signal error for XRPUSDT: name 'get_rsi' is not defined
+2026-05-24 06:51:43,530 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:51:43,530 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:51:43,530 - INFO - ⏱️ PS2TRADEB cycle 3: checking 5 pairs
+2026-05-24 06:51:43,530 - INFO - ⏱️ PS2TRADEB cycle 3: checking 5 pairs
+2026-05-24 06:51:43,783 - ERROR - Signal error for BTCUSDT: name 'get_rsi' is not defined
+2026-05-24 06:51:43,783 - ERROR - Signal error for BTCUSDT: name 'get_rsi' is not defined
+2026-05-24 06:51:44,038 - ERROR - Signal error for ETHUSDT: name 'get_rsi' is not defined
+2026-05-24 06:51:44,038 - ERROR - Signal error for ETHUSDT: name 'get_rsi' is not defined
+2026-05-24 06:51:44,291 - ERROR - Signal error for BNBUSDT: name 'get_rsi' is not defined
+2026-05-24 06:51:44,291 - ERROR - Signal error for BNBUSDT: name 'get_rsi' is not defined
+2026-05-24 06:51:44,543 - ERROR - Signal error for ADAUSDT: name 'get_rsi' is not defined
+2026-05-24 06:51:44,543 - ERROR - Signal error for ADAUSDT: name 'get_rsi' is not defined
+2026-05-24 06:51:44,786 - ERROR - Signal error for XRPUSDT: name 'get_rsi' is not defined
+2026-05-24 06:51:44,786 - ERROR - Signal error for XRPUSDT: name 'get_rsi' is not defined
+2026-05-24 06:52:44,950 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:52:44,950 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:52:44,950 - INFO - ⏱️ PS2TRADEB cycle 4: checking 5 pairs
+2026-05-24 06:52:44,950 - INFO - ⏱️ PS2TRADEB cycle 4: checking 5 pairs
+2026-05-24 06:52:45,174 - ERROR - Signal error for BTCUSDT: name 'get_rsi' is not defined
+2026-05-24 06:52:45,174 - ERROR - Signal error for BTCUSDT: name 'get_rsi' is not defined
+2026-05-24 06:52:45,387 - ERROR - Signal error for ETHUSDT: name 'get_rsi' is not defined
+2026-05-24 06:52:45,387 - ERROR - Signal error for ETHUSDT: name 'get_rsi' is not defined
+2026-05-24 06:52:45,600 - ERROR - Signal error for BNBUSDT: name 'get_rsi' is not defined
+2026-05-24 06:52:45,600 - ERROR - Signal error for BNBUSDT: name 'get_rsi' is not defined
+2026-05-24 06:52:45,817 - ERROR - Signal error for ADAUSDT: name 'get_rsi' is not defined
+2026-05-24 06:52:45,817 - ERROR - Signal error for ADAUSDT: name 'get_rsi' is not defined
+2026-05-24 06:52:46,034 - ERROR - Signal error for XRPUSDT: name 'get_rsi' is not defined
+2026-05-24 06:52:46,034 - ERROR - Signal error for XRPUSDT: name 'get_rsi' is not defined
+2026-05-24 06:53:46,207 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:53:46,207 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:53:46,207 - INFO - ⏱️ PS2TRADEB cycle 5: checking 5 pairs
+2026-05-24 06:53:46,207 - INFO - ⏱️ PS2TRADEB cycle 5: checking 5 pairs
+2026-05-24 06:53:46,420 - ERROR - Signal error for BTCUSDT: name 'get_rsi' is not defined
+2026-05-24 06:53:46,420 - ERROR - Signal error for BTCUSDT: name 'get_rsi' is not defined
+2026-05-24 06:53:46,644 - ERROR - Signal error for ETHUSDT: name 'get_rsi' is not defined
+2026-05-24 06:53:46,644 - ERROR - Signal error for ETHUSDT: name 'get_rsi' is not defined
+2026-05-24 06:53:46,857 - ERROR - Signal error for BNBUSDT: name 'get_rsi' is not defined
+2026-05-24 06:53:46,857 - ERROR - Signal error for BNBUSDT: name 'get_rsi' is not defined
+2026-05-24 06:53:47,075 - ERROR - Signal error for ADAUSDT: name 'get_rsi' is not defined
+2026-05-24 06:53:47,075 - ERROR - Signal error for ADAUSDT: name 'get_rsi' is not defined
+2026-05-24 06:53:47,287 - ERROR - Signal error for XRPUSDT: name 'get_rsi' is not defined
+2026-05-24 06:53:47,287 - ERROR - Signal error for XRPUSDT: name 'get_rsi' is not defined
+2026-05-24 06:54:47,469 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:54:47,469 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:54:47,470 - INFO - ⏱️ PS2TRADEB cycle 6: checking 5 pairs
+2026-05-24 06:54:47,470 - INFO - ⏱️ PS2TRADEB cycle 6: checking 5 pairs
+2026-05-24 06:54:47,872 - ERROR - Signal error for BTCUSDT: name 'get_rsi' is not defined
+2026-05-24 06:54:47,872 - ERROR - Signal error for BTCUSDT: name 'get_rsi' is not defined
+2026-05-24 06:54:48,090 - ERROR - Signal error for ETHUSDT: name 'get_rsi' is not defined
+2026-05-24 06:54:48,090 - ERROR - Signal error for ETHUSDT: name 'get_rsi' is not defined
+2026-05-24 06:54:48,307 - ERROR - Signal error for BNBUSDT: name 'get_rsi' is not defined
+2026-05-24 06:54:48,307 - ERROR - Signal error for BNBUSDT: name 'get_rsi' is not defined
+2026-05-24 06:54:48,523 - ERROR - Signal error for ADAUSDT: name 'get_rsi' is not defined
+2026-05-24 06:54:48,523 - ERROR - Signal error for ADAUSDT: name 'get_rsi' is not defined
+2026-05-24 06:54:48,737 - ERROR - Signal error for XRPUSDT: name 'get_rsi' is not defined
+2026-05-24 06:54:48,737 - ERROR - Signal error for XRPUSDT: name 'get_rsi' is not defined
+2026-05-24 06:55:27,667 - INFO - 🚀 PS2TRADEB v4.0 - SIMPLIFIED REST API
+2026-05-24 06:55:27,667 - INFO - 🚀 PS2TRADEB v4.0 - SIMPLIFIED REST API
+2026-05-24 06:55:27,668 - INFO - 🔗 Mode: LIVE
+2026-05-24 06:55:27,668 - INFO - 🔗 Mode: LIVE
+2026-05-24 06:55:27,780 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:55:27,780 - INFO - ✅ PS2TRADEB: Connected - 0 non-zero balances
+2026-05-24 06:55:27,781 - INFO - ⏱️ PS2TRADEB cycle 1: checking 5 pairs
+2026-05-24 06:55:27,781 - INFO - ⏱️ PS2TRADEB cycle 1: checking 5 pairs
+2026-05-24 06:55:27,995 - ERROR - Signal error for BTCUSDT: name 'get_rsi' is not defined
+2026-05-24 06:55:27,995 - ERROR - Signal error for BTCUSDT: name 'get_rsi' is not defined
+2026-05-24 06:55:28,206 - ERROR - Signal error for ETHUSDT: name 'get_rsi' is not defined
+2026-05-24 06:55:28,206 - ERROR - Signal error for ETHUSDT: name 'get_rsi' is not defined
+2026-05-24 06:55:28,422 - ERROR - Signal error for BNBUSDT: name 'get_rsi' is not defined
+2026-05-24 06:55:28,422 - ERROR - Signal error for BNBUSDT: name 'get_rsi' is not defined
+2026-05-24 06:55:28,637 - ERROR - Signal error for ADAUSDT: name 'get_rsi' is not defined
+2026-05-24 06:55:28,637 - ERROR - Signal error for ADAUSDT: name 'get_rsi' is not defined
+2026-05-24 06:55:28,858 - ERROR - Signal error for XRPUSDT: name 'get_rsi' is not defined
+2026-05-24 06:55:28,858 - ERROR - Signal error for XRPUSDT: name 'get_rsi' is not defined

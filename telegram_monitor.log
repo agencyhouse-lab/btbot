@@ -39,3 +39,13 @@ python3: can't open file '/root/btbot/telegram_monitor_bot.py': [Errno 2] No suc
 2026-05-24 06:20:25,838 - INFO -    🟠 ATBOT (Alpaca Live): ❌ OFFLINE
 2026-05-24 06:20:25,843 - INFO -    🟡 PS2TRADEB (Binance Paper): ❌ OFFLINE
 2026-05-24 06:20:25,843 - INFO -    🟡 PS2TRADEB (Binance Paper): ❌ OFFLINE
+2026-05-24 06:50:27,119 - INFO - 🔍 Checking bot status...
+2026-05-24 06:50:27,119 - INFO - 🔍 Checking bot status...
+2026-05-24 06:50:27,861 - INFO - ✅ Telegram sent: 77 chars
+2026-05-24 06:50:27,861 - INFO - ✅ Telegram sent: 77 chars
+2026-05-24 06:50:27,862 - WARNING - ⚠️ atbot is offline!
+2026-05-24 06:50:27,862 - WARNING - ⚠️ atbot is offline!
+2026-05-24 06:50:28,597 - INFO - ✅ Telegram sent: 83 chars
+2026-05-24 06:50:28,597 - INFO - ✅ Telegram sent: 83 chars
+2026-05-24 06:50:28,597 - WARNING - ⚠️ ps2tradeb is offline!
+2026-05-24 06:50:28,597 - WARNING - ⚠️ ps2tradeb is offline!
