@@ -79,3 +79,13 @@ python-dotenv could not parse statement starting at line 1
 ================================================================================
 🚀 PS2TRADEB v3.1 PRODUCTION - PAPER TRADING
 ================================================================================
+2026-05-24 04:47:16,732 - INFO - ================================================================================
+2026-05-24 04:47:16,732 - INFO - 🚀 PS2TRADEB v3.1 PRODUCTION - PAPER TRADING
+2026-05-24 04:47:16,732 - INFO - ================================================================================
+2026-05-24 04:47:16,732 - INFO - 🔐 Validating Binance API credentials...
+2026-05-24 04:47:16,732 - INFO - ✅ Credentials format validated
+2026-05-24 04:47:16,732 - INFO - ✅ PS2TRADEB: Paper API connected
+2026-05-24 04:47:16,919 - ERROR - ❌ PS2TRADEB: HTTP 400 - {"code":-1102,"msg":"Mandatory parameter 'signature' was not sent, was empty/null, or malformed."}
+2026-05-24 04:47:16,919 - INFO - 🚀 Starting trading loop...
+2026-05-24 04:47:48,149 - INFO - ⏱️ PS2TRADEB cycle 2: checking 5 pairs
+2026-05-24 04:48:49,334 - INFO - ⏱️ PS2TRADEB cycle 4: checking 5 pairs
