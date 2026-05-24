@@ -1,0 +1,24 @@
+🚀 Starting Bot at Sun May 24 03:42:22 UTC 2026
+Bot started with PID: 12766
+🚀 Starting Bot at Sun May 24 03:42:22 UTC 2026
+Bot started with PID: 12773
+Traceback (most recent call last):
+  File "/root/btbot/atbot.py", line 13, in <module>
+    import alpaca_trade_api as tradeapi
+ModuleNotFoundError: No module named 'alpaca_trade_api'
+Traceback (most recent call last):
+  File "/root/btbot/ps1trade.py", line 13, in <module>
+    import alpaca_trade_api as tradeapi
+ModuleNotFoundError: No module named 'alpaca_trade_api'
+🚀 Starting Bot at Sun May 24 03:42:34 UTC 2026
+Bot started with PID: 12782
+Traceback (most recent call last):
+  File "/root/btbot/atbot.py", line 13, in <module>
+    import alpaca_trade_api as tradeapi
+ModuleNotFoundError: No module named 'alpaca_trade_api'
+🚀 Starting Bot at Sun May 24 03:42:43 UTC 2026
+Bot started with PID: 12789
+Traceback (most recent call last):
+  File "/root/btbot/atbot.py", line 13, in <module>
+    import alpaca_trade_api as tradeapi
+ModuleNotFoundError: No module named 'alpaca_trade_api'

@@ -8,7 +8,7 @@ if [ "$1" == "atbot" ]; then
     python3 /root/btbot/atbot.py >> bot_activity.log 2>&1 &
 elif [ "$1" == "ps1" ]; then
     echo "Starting PS1 Trading Bot..."
-    python3 /root/btbot/ps1trade.py >> bot_activity.log 2>&1 &
+    python3 /root/btbot/ps2tradeb.py >> bot_activity.log 2>&1 &
 else
     echo "Usage: ./start_bot.sh [atbot|ps1]"
     exit 1
