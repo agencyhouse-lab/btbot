@@ -25,3 +25,26 @@ ModuleNotFoundError: No module named 'alpaca_trade_api'
 ================================================================================
 🚀 ATBOT v3.1 PRODUCTION - LIVE TRADING
 ================================================================================
+2026-05-24 04:43:27,553 - INFO - ================================================================================
+2026-05-24 04:43:27,553 - INFO - 🚀 ATBOT v3.1 PRODUCTION - LIVE TRADING
+2026-05-24 04:43:27,553 - INFO - ================================================================================
+2026-05-24 04:43:27,553 - ERROR - ❌ Load state error: 'trades'
+2026-05-24 04:43:27,553 - ERROR - ❌ ATBOT Connection error: ('Key ID must be given to access Alpaca trade API', ' (env: APCA_API_KEY_ID)')
+2026-05-24 04:43:27,553 - ERROR - ❌ ATBOT: Failed to connect to Alpaca
+python-dotenv could not parse statement starting at line 1
+2026-05-24 04:44:05,808 - INFO - ================================================================================
+2026-05-24 04:44:05,808 - INFO - ================================================================================
+2026-05-24 04:44:05,808 - INFO - 🚀 ATBOT v3.1 PRODUCTION - LIVE TRADING
+2026-05-24 04:44:05,808 - INFO - 🚀 ATBOT v3.1 PRODUCTION - LIVE TRADING
+2026-05-24 04:44:05,808 - INFO - ================================================================================
+2026-05-24 04:44:05,808 - INFO - ================================================================================
+2026-05-24 04:44:05,808 - ERROR - ❌ Load state error: 'trades'
+2026-05-24 04:44:05,808 - ERROR - ❌ Load state error: 'trades'
+2026-05-24 04:44:05,808 - ERROR - ❌ ATBOT Connection error: ('Key ID must be given to access Alpaca trade API', ' (env: APCA_API_KEY_ID)')
+2026-05-24 04:44:05,808 - ERROR - ❌ ATBOT Connection error: ('Key ID must be given to access Alpaca trade API', ' (env: APCA_API_KEY_ID)')
+2026-05-24 04:44:05,808 - ERROR - ❌ ATBOT: Failed to connect to Alpaca
+2026-05-24 04:44:05,808 - ERROR - ❌ ATBOT: Failed to connect to Alpaca
+
+================================================================================
+🚀 ATBOT v3.1 PRODUCTION - LIVE TRADING
+================================================================================

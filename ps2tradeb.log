@@ -38,3 +38,44 @@
 ================================================================================
 🚀 PS2TRADEB v3.1 PRODUCTION - PAPER TRADING
 ================================================================================
+2026-05-24 04:43:36,597 - INFO - ================================================================================
+2026-05-24 04:43:36,597 - INFO - 🚀 PS2TRADEB v3.1 PRODUCTION - PAPER TRADING
+2026-05-24 04:43:36,597 - INFO - ================================================================================
+2026-05-24 04:43:36,597 - INFO - 🔐 Validating Binance API credentials...
+2026-05-24 04:43:36,598 - ERROR - ❌ BINANCE_API_KEY not found in .env
+2026-05-24 04:43:36,598 - ERROR - ❌ PS2TRADEB startup error: ❌ Invalid Binance API credentials in .env file
+2026-05-24 04:43:36,598 - ERROR - SETUP REQUIRED:
+2026-05-24 04:43:36,598 - ERROR - 1. Edit /root/btbot/.env
+2026-05-24 04:43:36,598 - ERROR - 2. Add your Binance API credentials:
+2026-05-24 04:43:36,598 - ERROR -    BINANCE_API_KEY=your_key
+2026-05-24 04:43:36,598 - ERROR -    BINANCE_SECRET_KEY=your_secret
+2026-05-24 04:43:36,598 - ERROR - 3. Save and restart bot
+python-dotenv could not parse statement starting at line 1
+2026-05-24 04:44:05,573 - INFO - ================================================================================
+2026-05-24 04:44:05,573 - INFO - ================================================================================
+2026-05-24 04:44:05,573 - INFO - 🚀 PS2TRADEB v3.1 PRODUCTION - PAPER TRADING
+2026-05-24 04:44:05,573 - INFO - 🚀 PS2TRADEB v3.1 PRODUCTION - PAPER TRADING
+2026-05-24 04:44:05,573 - INFO - ================================================================================
+2026-05-24 04:44:05,573 - INFO - ================================================================================
+2026-05-24 04:44:05,573 - INFO - 🔐 Validating Binance API credentials...
+2026-05-24 04:44:05,573 - INFO - 🔐 Validating Binance API credentials...
+2026-05-24 04:44:05,573 - ERROR - ❌ BINANCE_API_KEY not found in .env
+2026-05-24 04:44:05,573 - ERROR - ❌ BINANCE_API_KEY not found in .env
+2026-05-24 04:44:05,573 - ERROR - ❌ PS2TRADEB startup error: ❌ Invalid Binance API credentials in .env file
+2026-05-24 04:44:05,573 - ERROR - ❌ PS2TRADEB startup error: ❌ Invalid Binance API credentials in .env file
+2026-05-24 04:44:05,573 - ERROR - SETUP REQUIRED:
+2026-05-24 04:44:05,573 - ERROR - SETUP REQUIRED:
+2026-05-24 04:44:05,573 - ERROR - 1. Edit /root/btbot/.env
+2026-05-24 04:44:05,573 - ERROR - 1. Edit /root/btbot/.env
+2026-05-24 04:44:05,573 - ERROR - 2. Add your Binance API credentials:
+2026-05-24 04:44:05,573 - ERROR - 2. Add your Binance API credentials:
+2026-05-24 04:44:05,573 - ERROR -    BINANCE_API_KEY=your_key
+2026-05-24 04:44:05,573 - ERROR -    BINANCE_API_KEY=your_key
+2026-05-24 04:44:05,573 - ERROR -    BINANCE_SECRET_KEY=your_secret
+2026-05-24 04:44:05,573 - ERROR -    BINANCE_SECRET_KEY=your_secret
+2026-05-24 04:44:05,573 - ERROR - 3. Save and restart bot
+2026-05-24 04:44:05,573 - ERROR - 3. Save and restart bot
+
+================================================================================
+🚀 PS2TRADEB v3.1 PRODUCTION - PAPER TRADING
+================================================================================
